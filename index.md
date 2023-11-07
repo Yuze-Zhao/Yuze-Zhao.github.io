@@ -4,11 +4,11 @@ layout: page
 
 ## About Me
 
-<img src="https://chaoanli.github.io/ChaoanLi.jpg" class="floatpic" width="360" height="480">
+<img src="https://chaoanli.github.io/chaoan.jpg" class="floatpic" width="360" height="480">
 
 Here is **Chaoan Li (Lance, 李朝安)**.
 
-I am a senior student majoring in **EECS** at Beijing Normal University and Maynooth University (Ireland, combined degrees). Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Zhezhuang Xu](https://www.researchgate.net/profile/Zhezhuang-Xu). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I am a master student majoring in **Pure Mathematical** at Beijing Normal University. Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Dachun Yang](http://math0.bnu.edu.cn/~dcyang/index.html). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
 
