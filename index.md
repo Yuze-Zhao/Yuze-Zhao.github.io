@@ -4,7 +4,7 @@ layout: page
 
 ## About Me
 
-<img src="https://chaoanli.github.io/caihanlin.jpg" class="floatpic" width="360" height="480">
+<img src="https://chaoanli.github.io/ChaoanLi.jpg" class="floatpic" width="360" height="480">
 
 Here is **Chaoan Li (Lance, 李朝安)**.
 
