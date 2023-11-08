@@ -41,12 +41,10 @@ At the PhD level, I would like to use my foundation in pure mathematics to pursu
 
 ## News and Updates
 
-- **Sep 2023：**Our work [DefenderIoT](https://fzuiot.site/) has been reported by [Youth of FZU](https://mp.weixin.qq.com/s/MF2NJQtEHsVwsm8Ym-l7Gg).
-- **Aug 2023：**Happy to be awarded the FEPG Scholarship.
-- **May 2023：**Happy to be awarded the XiamenAir Scholarship.
-- **May 2023：**Collected the Finalist Award in MCM 2023 (Top 1%).
-- **Jan 2023：**One paper accepted to ICAROB 2023, see you in Japan!
-- **Jun 2022：**Started research program at [Cambridge AI Group](https://www.cl.cam.ac.uk/research/ai/), advised by Prof. Pietro Liò.
+- **Oct 2023：**Happy to be awarded the 1st Prize Academic Scholarship.
+- **May 2023：**One paper accepted to AMP.
+- **Dec 2022：**Happy to be awarded Outstanding TA in 2022.
+- **Aug 2021：**Started research program at Innovative Intellectual Base for Pure Mathematical, Harmonic Analysis and its Applications, advised by Prof. Dachun Yang.
 
 <br>
 
