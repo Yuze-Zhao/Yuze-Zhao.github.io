@@ -4,50 +4,47 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 27th Aug 2023 &nbsp; [中文版本 (Chinese Version)](https://caihanlin.com/file/awards-zh/)
+Lastest Update: 8th Nov 2023 
 
 ## Scholarships
 
-- August 2023：**FEPG Scholarship** (about $1400)<br>One of the highest undergraduate awards at FZU.
-- May 2023：**XiamenAir Scholarship** (about $600)<br>One of the highest undergraduate awards at FZU
-- Oct 2023：Best Academic Performance of Maynooth (€100)
-- Oct 2022：Best Student Project Award of Maynooth (€100)
-- March 2023：Second Prize Scholarship of FZU ($1400)
-- Sep 2022：First Prize Scholarship of FZU ($2100)
-- March 2022：First Prize Scholarship of FZU ($2100)
-- Sep 2021：Third Prize Scholarship of FZU ($700)
-- March 2021：First Prize Scholarship of FZU ($2100)<br>Combined degree scholarship between FZU and Maynooth.<br>
+- Dec 2023：2nd Prize Academic Innovation Award of BNU ($5,000)
+- Dec 2023：First Prize of Academic Scholarship of BNU ($12,000)
+- Dec 2022：Second Prize of Academic Scholarship of BNU ($10,000)
+- Dec 2021：First Prize of Freshman Scholarship of BNU ($10,000)
+- Dec 2020：Second Prize Scholarship of FZU ($3,500)
+- Dec 2019：First Prize of People Scholarship of USTB (RMB 5,000)
+- Dec 2018：First Prize of People Scholarship of USTB (RMB 5,000)
+- Dec 2017：Second Prize of Freshman Scholarship of USTB (RMB 3,500)
 
 ## Competitions
 
-- Aug 2023：Second Prize in National Collegiate Internet of Things Technology and Application Competition
-- Aug 2023：**<font color='red'>Best Technology Award</font>** in National Youth Science Innovation Project Competition
-- Aug 2023：Second Prize in National College Digital Art&Design Awards (NCDA, provincial level)
-- July 2023：Third Prize in Fujian College Student Computer Design Competition
-- June 2023：**First Prize (Provincial championship)** in Fujian Youth Science Innovation Project Competition
-- May 2023：**<font color='red'>Finalist Award</font>** in Mathematical Contest In Modeling (Top 1% of all 20508 paper)
-- Dec 2022：First Prize (Provincial Level) in China Undergraduate Mathematical Contest in Modeling
-- Oct 2022：Maynooth International Engineering College Best Student Project in Academic Year 2022
-- Aug 2022： Third Prize in China National College Student Computer Design Competition
-- June 2022：Second Prize in Fujian College Student Computer Design Competition
-- June 2022：**Champion** of 100-meter Freestyle Swimming Competition of Fuzhou University
-- June 2022：Third Prize in the 13th Nanwei Cup Mathematical Mathematical Contest in Modeling<br>
+- Nov 2022：The **3-4 place** in men's doubles in the badminton match of the College of Mathematical Sciences of BNU
+- Oct 2019: **Second Prize** in 2019 China Mathematical Modeling Competition for College students Beijing Division A 
+- Mar 2019: **Champion of** Dota2 China level 3 Warriors League
+- May 2018: **First Prize** in The Beijing Mathematics Competition for College students
+- May 2018: **Third Prize** in The 10th China Mathematics Competition for College students
 
 ## Honors
-
-- Aug 2023：**FEPG Scholarship (Top 0.5%)**<br>Funded by Fujian Energy Petrochemical Group
-- May 2023：**XiamenAir Scholarship (Top 1%)**<br>Funded by Xiamen Airline, 30 students each year
-- May 2023：Outstanding Student Leaders of FZU
-- May 2021：Merit Student of Fuzhou University
-- July 2023：*Nomination for Baosteel Scholarship*
-- Sep 2022：*Nomination for China National Scholarship*
-- June 2022：*Nomination for China Telecom Scholarship*<br>
+- Dec 2022：Outstanding TA for Undergraduate Courses of BNU
+- Jul 2021：Excellent Campers of Summer Camp of WHU
+- Jul 2021：Excellent Campers of Summer Camp of BNU
+- Jul 2021：Excellent Campers of Summer Camp of NKU
+- Jul 2021：Excellent Campers of Summer Camp of SDU
+- May 2018：Merit Graduate Student of USTB
+- Dec 2010：Outstanding Student Leaders of USTB
+- Dec 2019：Outstanding Student Leaders of USTB
+- May 2018：Merit Student of USTB
 
 ## Services
 
-- Sep 2022 - Sep 2023：IEEE Student Membership, CAAI Student Membership
-- Sep 2021 - Sep 2022：Deputy President of Volunteer Department, Youth League Committee of FZU
-- Sep 2020 - Sep 2021：Monitor of Maynooth International Engineering College of FZU
-- April 2022：**Top 10 Best Volunteers (Only 10/30000)** of Fuzhou University
-- July 2021：Outstanding volunteer at 44th session of the World Heritage Committee
-- April 2021：Outstanding volunteer at 4th Digital China Summit<br>
+- Sep 2023 - Dec 2023：TA for Mathematical Analysis III at BNU
+- Mar 2023 - Jul 2023：TA for Mathematical Analysis II at BNU
+- Sep 2022 - Dec 2022：TA for Functional Analysis (graduate course) at BNU
+- Mar 2022 - Jul 2022：TA for Selected Topics in Harmonic Analysis at BNU
+- Mar 2021 - Jul 2021：Lecturer of Mathematics Analysis II, School of Mathematical Physics, USTB
+- Sep 2020 - Dec 2020：Lecturer of Mathematics Analysis I, School of Mathematical Physics, USTB
+- Mar 2020 - Jul 2020：Lecturer of Mathematics Analysis II, School of Mathematical Physics, USTB
+- Mar 2019 - Jul 2019：Lecturer of Advanced Algebra, School of Mathematical Physics, USTB
+- Sep 2018 - Dec 2018：Lecturer of Physical Mechanics Exercises, School of Mathematical Physics, USTB
+
