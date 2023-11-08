@@ -9,7 +9,7 @@ title: Conferences
 
 
 <div>
-<img src="/images/conference 2023 oct.JPG">
+<img src="/images/con2023oct.jpg">
 </div>
 
 
@@ -19,6 +19,6 @@ title: Conferences
 
 
 <div>
-<img src="/images/conference 2023 Aug.JPG">
+<img src="/images/con2023Aug.jpg">
 </div>
 
