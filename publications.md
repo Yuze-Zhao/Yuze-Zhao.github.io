@@ -20,8 +20,7 @@ Lastest Update: 8th Nov 2023
 <br>
 
 -  [Fourier transform of anisotropic Hardy spaces associated withball quasi-Banach function spaces and its applications to Hardy–Littlewood inequalities](https://arxiv.org/abs/2306.05840)<br>**Chaoan Li**, Xianjie Yan, Dachun Yang <br> Acta Math. Appl. Sin. Engl. Ser, (Revised) <br> arXiv: 2306.05840.
-
- <br>[Download Link](https://chaoanli.github.io/mypaper/lyy(AMAS)2023.pdf)
+<br>[Download Link](https://chaoanli.github.io/mypaper/lyy(AMAS)2023.pdf)
 <br>
 
 ## Working Manuscript
@@ -34,6 +33,6 @@ Lastest Update: 8th Nov 2023
 
 ## Undergraduate Thesis
 
-- ]Boundedness of Singular Integral Operators with Rough Kernels on Triebel–Lizorkin Space](https://chaoanli.github.io/mypaper/Bachelor Thesis_Chaoan Li.pdf) <br>**Chaoan Li* (Advisor: Yanping Chen).
+- [Boundedness of Singular Integral Operators with Rough Kernels on Triebel–Lizorkin Space](https://chaoanli.github.io/mypaper/Bachelor Thesis_Chaoan Li.pdf) <br>**Chaoan Li* (Advisor: Yanping Chen).
 
   <br>
