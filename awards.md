@@ -8,14 +8,14 @@ Lastest Update: 8th Nov 2023
 
 ## Scholarships
 
-- Dec 2023：2nd Prize Academic Innovation Award of BNU (RMB 5,000)
-- Dec 2023：First Prize of Academic Scholarship of BNU (RMB 12,000)
-- Dec 2022：Second Prize of Academic Scholarship of BNU (RMB 10,000)
-- Dec 2021：First Prize of Freshman Scholarship of BNU (RMB 10,000)
-- Dec 2020：Second Prize of People Scholarship of USTB (RMB 3,500)
-- Dec 2019：First Prize of People Scholarship of USTB (RMB 5,000)
-- Dec 2018：First Prize of People Scholarship of USTB (RMB 5,000)
-- Dec 2017：Second Prize of Freshman Scholarship of USTB (RMB 3,500)
+- Dec 2023：2nd Prize Academic Innovation Award of BNU (CNY 5,000)
+- Dec 2023：First Prize of Academic Scholarship of BNU (CNY 12,000)
+- Dec 2022：Second Prize of Academic Scholarship of BNU (CNY 10,000)
+- Dec 2021：First Prize of Freshman Scholarship of BNU (CNY 10,000)
+- Dec 2020：Second Prize of People Scholarship of USTB (CNY 3,500)
+- Dec 2019：First Prize of People Scholarship of USTB (CNY 5,000)
+- Dec 2018：First Prize of People Scholarship of USTB (CNY 5,000)
+- Dec 2017：Second Prize of Freshman Scholarship of USTB (CNY 3,500)
 
 ## Competitions
 
