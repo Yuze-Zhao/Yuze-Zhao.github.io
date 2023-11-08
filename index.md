@@ -21,6 +21,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - **Sep 2021 - Jun 2024:** Beijing Normal University (MSc: Pure Mathematics)
 - **Sep 2017 - Jun 2021:** University of Science and Technology Beijing (BSc: Mathematics and Applied Mathematics)
 - **Sep 2018 - Jun 2021:** University of Science and Technology Beijing (Minor: Financial Engineering)
+- **Sep 2014 - Jun 2017:** NO.1 Middle School Affiliated to Central China Normal University
 
 <br>
 
