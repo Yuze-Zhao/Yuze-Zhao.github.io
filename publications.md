@@ -25,7 +25,7 @@ Lastest Update: 8th Nov 2023
 
 ## Working Manuscript
 
-- Non-Smooth Atomic Decomposition of Anisotropic Triebel–Lizorkin spaces<br>Under major modification.<br>
+- Non-Smooth Atomic Decomposition of Anisotropic Triebel–Lizorkin spaces,<br>Under working.<br>
 
   <br>
 
