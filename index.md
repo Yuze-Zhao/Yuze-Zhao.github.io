@@ -8,20 +8,19 @@ layout: page
 
 Here is **Chaoan Li (Lance, 李朝安)**.
 
-I am a master student majoring in **Pure Mathematical** at Beijing Normal University. Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Dachun Yang](http://math0.bnu.edu.cn/~dcyang/index.html). I also spent a lovely summer research program with [Prof. Pietro Liò](https://www.cl.cam.ac.uk/~pl219/)'s team at Cambridge University.
+I am a master student majoring in **Pure Mathematical** at Beijing Normal University. Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Dachun Yang](http://math0.bnu.edu.cn/~dcyang/index.html).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *hanlin[dot]cai[at]ieee[dot]org*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *cali@mail.bnu.edu.cn*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2025 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
 
-- **Sep 2020 - June 2024:** Fuzhou University (BEng)
-- **Sep 2020 - June 2024:** Maynooth University (BSc)
-- **June 2022 - Nov 2022:** Cambridge University (Exchange)
-- Expect to apply for a one-year Mphil program and graduate in Sep 2025. Looking for PhD position after that.
+- **Sep 2021 - Jun 2024:** Beijing Normal University (MSc: Pure Mathematics)
+- **Sep 2017 - Jun 2021:** University of Science and Technology Beijing (BSc: Mathematics and Applied Mathematics)
+- **Sep 2018 - Jun 2021:** University of Science and Technology Beijing (Minor: Financial Engineering)
 
 <br>
 
@@ -29,9 +28,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Industrial IoT System
-- Network Cybersecurity
-- Applied Machine Learning
+- Applied Mathematics
+- Financial Mathematics
+- Machine Learning and Language Model
 
 My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
 
