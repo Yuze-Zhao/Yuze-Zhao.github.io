@@ -6,9 +6,9 @@ layout: page
 
 <img src="https://chaoanli.github.io/chaoan.jpg" class="floatpic" width="360" height="480">
 
-Here is **Chaoan Li (Lance, 李朝安)**.
+Here is **Chaoan Li (李朝安)**.
 
-I am a master student majoring in **Pure Mathematical** at Beijing Normal University. Currently, I work as a research assistant in the IIoT-Lab, advised by [Prof. Dachun Yang](http://math0.bnu.edu.cn/~dcyang/index.html).
+I am a master student majoring in **Pure Mathematical** at Beijing Normal University. Currently, I work as a research assistant in the Innovative Intellectual Base for Pure Mathematical, Harmonic Analysis and its Applications, advised by [Prof. Dachun Yang](http://math0.bnu.edu.cn/~dcyang/index.html).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *cali@mail.bnu.edu.cn*
 
@@ -32,7 +32,8 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Financial Mathematics
 - Machine Learning and Language Model
 
-My current research focuses on practical problems that artificial intelligence faces in real life. My interests are on the **Machine Learning** and its applications in **Industrial IoT**. In a word, advanced technologies like ML and IoT positively influence the life of everybody.  I wish to devote my talent to this meaningful cause and bring well-being to society.
+My research primarily focuses on **the real-variable theories of various function spaces**, such as (classical, variable, mixed-norm, weighted) Lebesgue spaces, Hardy spaces, and Triebel—Lizorkin spaces. I have developed comprehensive theories of **anisotropic Hardy-type spaces associated with ball quasi-Banach spaces**.
+At the PhD level, I would like to use my foundation in pure mathematics to pursue **more applied research**. This includes things like Financial Math, Operations Theory and Machine Learning. I hope I can do something meaningful for the society through my research results.
 
 <br>
 
