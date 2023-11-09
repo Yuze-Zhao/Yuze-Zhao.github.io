@@ -42,9 +42,9 @@ Lastest Update: 8th Nov 2023
 - Mar 2023 - Jul 2023：TA for Mathematical Analysis II at BNU
 - Sep 2022 - Dec 2022：TA for Functional Analysis (graduate course) at BNU
 - Mar 2022 - Jul 2022：TA for Selected Topics in Harmonic Analysis at BNU
-- Mar 2021 - Jul 2021：Lecturer of Mathematics Analysis II, School of Mathematical Physics, USTB
-- Sep 2020 - Dec 2020：Lecturer of Mathematics Analysis I, School of Mathematical Physics, USTB
-- Mar 2020 - Jul 2020：Lecturer of Mathematics Analysis II, School of Mathematical Physics, USTB
-- Mar 2019 - Jul 2019：Lecturer of Advanced Algebra, School of Mathematical Physics, USTB
+- Mar 2021 - Jul 2021：Lecturer of Mathematics Analysis II Exercises, School of Mathematical Physics, USTB
+- Sep 2020 - Dec 2020：Lecturer of Mathematics Analysis I Exercises, School of Mathematical Physics, USTB
+- Mar 2020 - Jul 2020：Lecturer of Mathematics Analysis II Exercises, School of Mathematical Physics, USTB
+- Mar 2019 - Jul 2019：Lecturer of Advanced Algebra Exercises, School of Mathematical Physics, USTB
 - Sep 2018 - Dec 2018：Lecturer of Physical Mechanics Exercises, School of Mathematical Physics, USTB
 
