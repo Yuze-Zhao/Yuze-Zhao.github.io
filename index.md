@@ -42,6 +42,7 @@ At the PhD level, I would like to use my foundation in pure mathematics to pursu
 
 ## News and Updates
 
+- **Oct 2023：**Happy to be awarded Academic Innovation Award of BNU, SMS.
 - **Oct 2023：**Happy to be awarded the 1st Prize Academic Scholarship.
 - **May 2023：**One paper accepted to AMP.
 - **Dec 2022：**Happy to be awarded Outstanding TA in 2022.

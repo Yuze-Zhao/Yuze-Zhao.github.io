@@ -8,7 +8,7 @@ Lastest Update: 8th Nov 2023
 
 ## Scholarships
 
-- Dec 2023：2nd Prize Academic Innovation Award of BNU (CNY 5,000)
+- Dec 2023：Academic Innovation Award of BNU, SMS (CNY 3,000)
 - Dec 2023：First Prize of Academic Scholarship of BNU (CNY 12,000)
 - Dec 2022：Second Prize of Academic Scholarship of BNU (CNY 10,000)
 - Dec 2021：First Prize of Freshman Scholarship of BNU (CNY 10,000)
