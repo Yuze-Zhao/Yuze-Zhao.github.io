@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 8th Nov 2023
+Lastest Update: 17th Apr 2024
 
 ## Conference Paper
 
@@ -19,7 +19,7 @@ Lastest Update: 8th Nov 2023
  <br>[Download Link](https://chaoanli.github.io/mypaper/lyy(AMP)2023.pdf)
 <br>
 
--  [Fourier transform of anisotropic Hardy spaces associated withball quasi-Banach function spaces and its applications to Hardy–Littlewood inequalities](https://arxiv.org/abs/2306.05840)<br>**Chaoan Li**, Xianjie Yan, Dachun Yang <br> Acta Math. Appl. Sin. Engl. Ser, (Revised) <br> arXiv: 2306.05840.
+-  [Fourier transform of anisotropic Hardy spaces associated withball quasi-Banach function spaces and its applications to Hardy–Littlewood inequalities](https://arxiv.org/abs/2306.05840)<br>**Chaoan Li**, Xianjie Yan, Dachun Yang <br> Acta Math. Appl. Sin. Engl. Ser, (accepted).
 <br>[Download Link](https://chaoanli.github.io/mypaper/lyy(AMAS)2023.pdf)
 <br>
 

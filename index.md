@@ -10,13 +10,13 @@ Here is **Chaoan Li (李朝安)**.
 
 I am a master student majoring in **Pure Mathematical** at Beijing Normal University. Currently, I work as a research assistant in the Innovative Intellectual Base for Pure Mathematical, Harmonic Analysis and its Applications, advised by [Prof. Dachun Yang](http://math0.bnu.edu.cn/~dcyang/index.html).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *cali@mail.bnu.edu.cn*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chaoan@tamu.edu*
 
 <br>
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I am looking for PhD to start in 2024 Fall. Contact me if you have any leads!**
+**<font color='red'>[Highlight]</font> I'm going to Texas A&M University to pursue a Ph.D. in industrial engineering under the supervision of [Dr. Rui Tuo](https://engineering.tamu.edu/industrial/profiles/tuo-rio.html)!**
 
 - **Sep 2021 - Jun 2024:** Beijing Normal University (MSc: Pure Mathematics)
 - **Sep 2017 - Jun 2021:** University of Science and Technology Beijing (BSc: Mathematics and Applied Mathematics)
@@ -42,6 +42,8 @@ At the PhD level, I would like to use my foundation in pure mathematics to pursu
 
 ## News and Updates
 
+- **Apr 2024：**One paper accepted to AMAS.
+- **Mar 2024：**Happy to have been admitted as a Ph.D. student of Texas A&M University!
 - **Oct 2023：**Happy to be awarded Academic Innovation Award of BNU, SMS.
 - **Oct 2023：**Happy to be awarded the 1st Prize Academic Scholarship.
 - **May 2023：**One paper accepted to AMP.
