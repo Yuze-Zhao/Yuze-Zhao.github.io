@@ -8,7 +8,7 @@ layout: page
 
 Here is **Chaoan Li (李朝安)**.
 
-I am a Ph.D. student majoring in **Data Science** at Texas A&M University. Currently, I work as a research assistant in the Wm Michael Barnes ’64 Department of Industrial & Systems Engineering, advised by [Dr. Rui Tuo](http://math0.bnu.edu.cn/~dcyang/index.html).
+I am a Ph.D. student majoring in **Data Science** at Texas A&M University. Currently, I work as a research assistant in the Wm Michael Barnes ’64 Department of Industrial & Systems Engineering, advised by [Dr. Rui Tuo](https://sites.google.com/site/ruituo2017/).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chaoan@tamu.edu*
 
@@ -34,8 +34,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 - Data Science
 - Machine Learning and Language Model
 
-My research primarily focuses on **the real-variable theories of various function spaces**, such as (classical, variable, mixed-norm, weighted) Lebesgue spaces, Hardy spaces, and Triebel—Lizorkin spaces. I have developed comprehensive theories of **anisotropic Hardy-type spaces associated with ball quasi-Banach spaces**.
-At the PhD level, I would like to use my foundation in pure mathematics to pursue **more applied research**. This includes things like Financial Math, Operations Theory and Machine Learning. I hope I can do something meaningful for the society through my research results.
 
 <br>
 
