@@ -8,7 +8,7 @@ layout: page
 
 Here is **Chaoan Li (李朝安)**.
 
-I am a master student majoring in **Pure Mathematical** at Beijing Normal University. Currently, I work as a research assistant in the Innovative Intellectual Base for Pure Mathematical, Harmonic Analysis and its Applications, advised by [Prof. Dachun Yang](http://math0.bnu.edu.cn/~dcyang/index.html).
+I am a Ph.D. student majoring in **Data Science** at Texas A&M University. Currently, I work as a research assistant in the Wm Michael Barnes ’64 Department of Industrial & Systems Engineering, advised by [Dr. Rui Tuo](http://math0.bnu.edu.cn/~dcyang/index.html).
 
 If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chaoan@tamu.edu*
 
@@ -18,8 +18,9 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 **<font color='red'>[Highlight]</font> I'm going to Texas A&M University to pursue a Ph.D. in industrial engineering under the supervision of [Dr. Rui Tuo](https://engineering.tamu.edu/industrial/profiles/tuo-rio.html)!**
 
-- **Sep 2021 - Jun 2024:** Beijing Normal University (MSc: Pure Mathematics)
-- **Sep 2017 - Jun 2021:** University of Science and Technology Beijing (BSc: Mathematics and Applied Mathematics)
+- **Aug 2024 - Now:** Texas A&M University (PhD student)
+- **Sep 2021 - Jun 2024:** Beijing Normal University (MS: Pure Mathematics)
+- **Sep 2017 - Jun 2021:** University of Science and Technology Beijing (BS: Mathematics and Applied Mathematics)
 - **Sep 2018 - Jun 2021:** University of Science and Technology Beijing (Minor: Financial Engineering)
 - **Sep 2014 - Jun 2017:** NO.1 Middle School Affiliated to Central China Normal University
 
@@ -30,7 +31,7 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 ## Research Interests
 
 - Applied Mathematics
-- Financial Mathematics
+- Data Science
 - Machine Learning and Language Model
 
 My research primarily focuses on **the real-variable theories of various function spaces**, such as (classical, variable, mixed-norm, weighted) Lebesgue spaces, Hardy spaces, and Triebel—Lizorkin spaces. I have developed comprehensive theories of **anisotropic Hardy-type spaces associated with ball quasi-Banach spaces**.
@@ -42,6 +43,7 @@ At the PhD level, I would like to use my foundation in pure mathematics to pursu
 
 ## News and Updates
 
+- **Aug 2024：**Start my new academic journey at Texas A&M University.
 - **Apr 2024：**One paper accepted to AMAS.
 - **Mar 2024：**Happy to have been admitted as a Ph.D. student of Texas A&M University!
 - **Oct 2023：**Happy to be awarded Academic Innovation Award of BNU, SMS.
