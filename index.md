@@ -16,8 +16,6 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Academic Background
 
-**<font color='red'>[Highlight]</font> I'm going to Texas A&M University to pursue a Ph.D. in industrial engineering under the supervision of [Dr. Rui Tuo](https://engineering.tamu.edu/industrial/profiles/tuo-rio.html)!**
-
 - **Aug 2024 - Now:** Texas A&M University (PhD student)
 - **Sep 2021 - Jun 2024:** Beijing Normal University (MS: Pure Mathematics)
 - **Sep 2017 - Jun 2021:** University of Science and Technology Beijing (BS: Mathematics and Applied Mathematics)
