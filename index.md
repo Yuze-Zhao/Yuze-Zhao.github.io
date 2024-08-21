@@ -2,7 +2,7 @@
 layout: page
 ---
 
-## Chaoan Li
+## Chaoan Li's Homepage
 
 <img src="https://chaoanli.github.io/chaoan.jpg" class="floatpic" width="360" height="480">
 
