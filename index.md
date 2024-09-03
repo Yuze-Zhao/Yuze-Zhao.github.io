@@ -6,7 +6,7 @@ layout: page
 
 <img src="https://chaoanli.github.io/chaoan.jpg" class="floatpic" width="360" height="480">
 
-Here is **Chaoan Li (李朝安)**.
+Here is **Chaoan Li**.
 
 I am a Ph.D. student majoring in **Data Science** at Texas A&M University. Currently, I work as a research assistant in the Wm Michael Barnes ’64 Department of Industrial & Systems Engineering, advised by [Dr. Rui Tuo](https://sites.google.com/site/ruituo2017/).
 
