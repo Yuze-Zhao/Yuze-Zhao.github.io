@@ -4,7 +4,7 @@ permalink: /publications/index.html
 title: Publications
 ---
 
-Lastest Update: 17th Apr 2024
+Lastest Update: 31th Mar 2025
 
 ## Conference Paper
 
@@ -19,17 +19,17 @@ Lastest Update: 17th Apr 2024
  <br>[Download Link](https://chaoanli.github.io/mypaper/lyy(AMP)2023.pdf)
 <br>
 
--  [Fourier transform of anisotropic Hardy spaces associated withball quasi-Banach function spaces and its applications to Hardy–Littlewood inequalities](https://arxiv.org/abs/2306.05840)<br>**Chaoan Li**, Xianjie Yan, Dachun Yang <br> Acta Math. Appl. Sin. Engl. Ser, (accepted).
+-  [Fourier transform of anisotropic Hardy spaces associated with
+ball quasi-Banach function spaces and its applications to Hardy–Littlewood inequalities](https://link.springer.com/article/10.1007/s10255-024-1124-5)<br>**Chaoan Li**, Xianjie Yan, Dachun Yang <br> Acta Math. Appl. Sin. Engl. Ser, (2024), https://doi.org/10.1007/s10255-024-1124-5.
 <br>[Download Link](https://chaoanli.github.io/mypaper/lyy(AMAS)2023.pdf)
 <br>
 
-## Working Manuscript
+## Master Thesis
 
-- Non-Smooth Atomic Decomposition of Anisotropic Triebel–Lizorkin spaces,<br>Under working.<br>
+- [Real-Variable Characterizations and Its Applications of Anisotropic Ball Campanato and Hardy Spaces](https://chaoanli.github.io/mypaper/Master Thesis_Chaoan Li.pdf) <br>**Chaoan Li* (Advisor: Dachun Yang).
 
   <br>
 
----
 
 ## Undergraduate Thesis
 
