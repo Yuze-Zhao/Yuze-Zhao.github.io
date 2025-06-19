@@ -28,17 +28,16 @@ If you are interested in any aspect of me, I would love to chat and collaborate,
 
 ## Research Interests
 
-- Applied Mathematics
-- Data Science
-- Machine Learning and Language Model
-
-
+- Large Language Model
+- Quantitative Finance
+- Non-parametric Statistics
+- Web 3
 <br>
 
 ---
 
 ## News and Updates
-
+- **May 2025：**Thrilled to pass my Ph.D. qualifying exam on the topic of LLM watermarking, with [Dr. Rui Tuo](https://sites.google.com/site/ruituo2017/), [Dr. Jaesung Lee](https://sites.google.com/view/jaesunglee), and [Dr. David Eckman](https://eckman.engr.tamu.edu/) on the committee.
 - **Aug 2024：**Start my new academic journey at Texas A&M University.
 - **Apr 2024：**One paper accepted to AMAS.
 - **Mar 2024：**Happy to have been admitted as a Ph.D. student of Texas A&M University!
