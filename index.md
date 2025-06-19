@@ -10,7 +10,8 @@ Here is **Chaoan Li**.
 
 I am a Ph.D. student majoring in **Data Science** at Texas A&M University. Currently, I work as a research assistant in the Wm Michael Barnes ’64 Department of Industrial & Systems Engineering, advised by [Dr. Rui Tuo](https://sites.google.com/site/ruituo2017/).
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chaoan@tamu.edu*
+If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chaoan@tamu.edu*.
+
 By the way, I have a Mandarin chat podcast [EasyPod](https://www.easypod.fun/).
 
 <br>
