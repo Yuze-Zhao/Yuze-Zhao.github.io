@@ -74,9 +74,9 @@ permalink: /:categories/:title    # e.g. /tech/my-post/
 # --------------------------------------------------
 # markdown: kramdown
 
-# markdown: kramdown
+markdown: kramdown
 kramdown:
-  math_engine: katex
+  math_engine: mathjax
   
 kramdown:
   auto_ids: true
