@@ -73,13 +73,15 @@ permalink: /:categories/:title    # e.g. /tech/my-post/
 #  KRAMDOWN (Markdown engine) SETTINGS
 # --------------------------------------------------
 # markdown: kramdown
-  
+
+markdown: kramdown  
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+  math_engine: katex
   # math_engine: katex
 
   # coderay:
