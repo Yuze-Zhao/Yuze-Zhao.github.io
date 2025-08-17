@@ -18,9 +18,11 @@ If you are interested in any aspect of me, I am always open to discussions and a
 ## Academic Background
 
 - **Sep 2023 - Now**: [Beijing Normal University](https://www.bnu.edu.cn) <br>
-MS: Fundamental Mathematics
+MS: Fundamental Mathematics <br>
+Advisor: Dachun Yang and Wen Yuan
 - **Sep 2019 - Jun 2023**: [Dalian University of Technology](https://www.dlut.edu.cn) <br>
-BS: Mathematics and Applied Mathematics
+BS: Mathematics and Applied Mathematics <br>
+Advisor: Junfeng Li
 - **Sep 2016 - Jun 2019**: [Handan No.1 High School](http://www.handanyz.com)
 
 ---
