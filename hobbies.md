@@ -76,7 +76,7 @@ I really enjoy the anime soundtrack [Pearls](https://open.spotify.com/track/6X1y
 <div class="one">
 <img src="/images/cb.jpg"></div>
 
-# Cat & Dog
+<!-- # Cat & Dog
 
 Adorable kittens and puppies.
 
@@ -89,4 +89,4 @@ Adorable kittens and puppies.
 <div class="one">
 <img src="/images/dog.jpg">
 </div>
-<br>
+<br> -->
