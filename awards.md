@@ -4,47 +4,18 @@ permalink: /awards/index.html
 title: Awards
 ---
 
-Lastest Update: 8th Nov 2023 
-
 ## Scholarships
 
-- Dec 2023：Academic Innovation Award of BNU, SMS
-- Dec 2023：First Prize of Academic Scholarship of BNU
-- Dec 2022：Second Prize of Academic Scholarship of BNU
-- Dec 2021：First Prize of Freshman Scholarship of BNU
-- Dec 2020：Second Prize of People Scholarship of USTB
-- Dec 2019：First Prize of People Scholarship of USTB
-- Dec 2018：First Prize of People Scholarship of USTB
-- Dec 2017：Second Prize of Freshman Scholarship of USTB
+- 2024：**1st Prize Academic Scholarship, Beijing Normal University** (CNY 12,000)<br>
+- 2023：**1st Prize Freshman Scholarship, Beijing Normal University** (CNY 10,000) ($1000)<br>
+- 2022：**Hua Luogeng Scholarship, Chinese Academy of Sciences** (CNY 2,300)<br>
 
-## Competitions
-
-- Nov 2022：The **3-4 place** in men's doubles in the badminton match of the College of Mathematical Sciences of BNU
-- Oct 2019: **Second Prize** in 2019 China Mathematical Modeling Competition for College students Beijing Division A 
-- Mar 2019: **Champion of** Dota2 China level 3 Warriors League
-- May 2018: **First Prize** in The Beijing Mathematics Competition for College students
-- May 2018: **Third Prize** in The 10th China Mathematics Competition for College students
 
 ## Honors
-- Dec 2022：Outstanding TA for Undergraduate Courses of BNU
-- Jul 2021：Excellent Campers of Summer Camp of WHU
-- Jul 2021：Excellent Campers of Summer Camp of BNU
-- Jul 2021：Excellent Campers of Summer Camp of NKU
-- Jul 2021：Excellent Campers of Summer Camp of SDU
-- May 2018：Merit Graduate Student of USTB
-- Dec 2010：Outstanding Student Leaders of USTB
-- Dec 2019：Outstanding Student Leaders of USTB
-- May 2018：Merit Student of USTB
 
-## Services
-
-- Sep 2023 - Dec 2023：TA for Mathematical Analysis III at BNU
-- Mar 2023 - Jul 2023：TA for Mathematical Analysis II at BNU
-- Sep 2022 - Dec 2022：TA for Functional Analysis (graduate course) at BNU
-- Mar 2022 - Jul 2022：TA for Selected Topics in Harmonic Analysis at BNU
-- Mar 2021 - Jul 2021：Lecturer of Mathematics Analysis II Exercises, School of Mathematical Physics, USTB
-- Sep 2020 - Dec 2020：Lecturer of Mathematics Analysis I Exercises, School of Mathematical Physics, USTB
-- Mar 2020 - Jul 2020：Lecturer of Mathematics Analysis II Exercises, School of Mathematical Physics, USTB
-- Mar 2019 - Jul 2019：Lecturer of Advanced Algebra Exercises, School of Mathematical Physics, USTB
-- Sep 2018 - Dec 2018：Lecturer of Physical Mechanics Exercises, School of Mathematical Physics, USTB
-
+- 2024 **Outstanding TA for Undergraduate Courses**, Beijing Normal University<br>
+- 2023 **Outstanding Undergraduate Thesis Award**, Dalian University of Technology<br>
+- 2022 **Excellent Campers of Summer Camp**, Shanghai Jiao Tong University<br>
+- 2022 **Excellent Campers of Summer Camp**, Beijing Normal University<br>
+- 2021  **3rd Prize of Undergraduate Mathematical Contest in Modeling**, Liao Ning Province<br>
+- 2020 **3rd Prize of Chinese Mathematics Competitions**,  Liao Ning Province<br>
