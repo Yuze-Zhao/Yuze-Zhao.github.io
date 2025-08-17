@@ -7,7 +7,7 @@ description: Two roads diverged in woods, I took the one less traveled by.  # St
 
 # TIP ── For local development you can comment out `url`
 # and build with relative paths. In production you want this set.
-url: https://MUMAAMCS.github.io
+url: https://Yuze-Zhao.github.io
 
 # --------------------------------------------------
 #  AUTHOR / PROFILE DATA
@@ -17,11 +17,11 @@ owner:
   avatar: portrait.jpg
   # bio: Dream big, stay positive, work hard, and enjoy the journey.
   email: yuzezhao@mail.bnu.edu.cn
-  cv: https://MUMAAMCS.github.io/file/CV_YuzeZhao.pdf
+  cv: https://Yuze-Zhao.github.io/file/CV_YuzeZhao.pdf
 
 
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: MUMAAMCS
+  github: Yuze-Zhao
   wechat: STUDENTinMath
   QQ: 1175217383
 
