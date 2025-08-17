@@ -1,65 +1,86 @@
-title: Chaoan Li
-# tagline: Here is personal website of Chaoan Li. Powered by Jekyll, based on the Minimal Mistakes theme.
-description: Two roads diverged in woods, I took the one less traveled by.
-#Comment out url when working locally to resolve base urls correctly
-url: https://chaoanli.github.io
+# --------------------------------------------------
+#  BASIC SITE INFO
+# --------------------------------------------------
+title: Yuze Zhao   # Main site title (appears in browser tab & RSS)
+tagline: Here is personal website of Yuze Zhao. Powered by Jekyll, based on the Minimal Mistakes theme.  # Optional short tagline, used by some layouts
+description: Two roads diverged in woods, I took the one less traveled by.  # Strongly recommended for SEO & social cards
 
-# Owner/author information
+# TIP ── For local development you can comment out `url`
+# and build with relative paths. In production you want this set.
+url: https://MUMAAMCS.github.io
+
+# --------------------------------------------------
+#  AUTHOR / PROFILE DATA
+# --------------------------------------------------
 owner:
-  name: Chaoan Li
-  avatar: ChaoanLi.jpg
- # bio:
-  email: chaoan@tamu.edu
-  cv: https://chaoanli.github.io/file/CV_ChaoanLi.pdf
+  name: Yuze Zhao
+  avatar: portrait.jpg
+  # bio: Dream big, stay positive, work hard, and enjoy the journey.
+  email: yuzezhao@mail.bnu.edu.cn
+  cv: https://MUMAAMCS.github.io/file/CV_YuzeZhao.pdf
+
+
   # Social networking links are used in author-bio sidebar. Update and remove as you like.
-  github: ChaoanLi
-  scholar: https://scholar.google.com/citations?user=AVFau-sAAAAJ&hl=zh-CN&oi=ao
-  researchgate: https://www.researchgate.net/profile/Chaoan-Li-2
-  AMS: https://mathscinet.ams.org/mathscinet/author?authorId=1562194
-  # facebook: caihanlin2002
-  # instagram: lancecai2002
-  # lastfm:
-  # tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  # google_plus:
+  github: MUMAAMCS
+  wechat: STUDENTinMath
+  QQ: 1175217383
 
-# Analytics and webmaster tools stuff goes here
-# https://search.google.com/search-console/ownership
-google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
 
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-# bing_verify: ""
+# --------------------------------------------------
+#  SEARCH-ENGINE VERIFICATION & ANALYTICS
+# --------------------------------------------------
+# google_verify: "SkiyuGpJOKT74vv5GmXLvYXXDkXy4v8VWPtbelYz3Hs"
+# bing_verify: ""    # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
+# google_analytics: "G-XXXXXXX"                                 # GA-4 property ID
 
-# Links to include in top navigation
-# For external links add external: true
+
+# --------------------------------------------------
+#  TOP NAVIGATION BAR
+#  `external: true` opens the link in a new tab.
+# --------------------------------------------------
 links:
   - title: About Me
     url: /
-  - title: Publications
-    url: /publications/
+  - title: Researches
+    url: /researches/
   - title: Awards
     url: /awards/
   - title: Hobbies
     url: /hobbies/
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone: China/Beijing
-future: true
-highlighter: rouge
+  - title: Blogs
+    url: /blogs/
+  # - title: 中文
+  #   url: /cn/
+
+
+# --------------------------------------------------
+#  BUILD & RENDERING OPTIONS
+# --------------------------------------------------
+timezone: Asia/Beijing          # IANA time-zone ID (China/Beijing is invalid)
+future: true                     # Render posts dated in the future
+highlighter: rouge               # Code highlighter; Rouge is default in MM
+# markdown: kramdown             # Jekyll default; uncomment to force
+# pygments: true                 # Legacy option (Rouge supersedes this)
+
+
+# --------------------------------------------------
+#  PERMALINK STRUCTURE
+# --------------------------------------------------
+permalink: /:categories/:title    # e.g. /tech/my-post/
+
+
+# --------------------------------------------------
+#  KRAMDOWN (Markdown engine) SETTINGS
+# --------------------------------------------------
 # markdown: kramdown
-# markdown: redcarpet
-# pygments: true
-
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
-permalink:   /:categories/:title
-
-
+  
 kramdown:
   auto_ids: true
   footnote_nr: 1
   entity_output: as_char
   toc_levels: 1..6
   enable_coderay: false
+  # math_engine: katex
 
   # coderay:
   #   coderay_line_numbers:
@@ -69,11 +90,40 @@ kramdown:
   #   coderay_css: class
 
 
-# disqus settings:
+# --------------------------------------------------
+#  DISQUS COMMENT SYSTEM
+# --------------------------------------------------
 disqus:
-  shortname: lancecai
+  shortname: yuzezhao
 
-include: [".htaccess"]
-exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
 
-# Latest update in 2023/10/15 by Hanlin Cai.
+# include: [".htaccess"]
+# exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "minimal-mistakes.sublime-project", "minimal-mistakes.sublime-workspace"]
+
+# --------------------------------------------------
+#  INCLUDE / EXCLUDE Lists
+# --------------------------------------------------
+include: [".htaccess"]           # Files to force-include in the build
+exclude:                         # Folders/files ignored during build
+  - "lib"
+  - "config.rb"
+  - "Capfile"
+  - "config"
+  - "log"
+  - "Rakefile"
+  - "Rakefile.rb"
+  - "tmp"
+  - "less"
+  - "minimal-mistakes.sublime-project"
+  - "minimal-mistakes.sublime-workspace"
+
+
+# --------------------------------------------------
+#  OPTIONAL PLUG-INS (uncomment once gems are added)
+# --------------------------------------------------
+plugins:
+  - jekyll-feed          # Auto-generate RSS feed
+  - jekyll-sitemap       # Auto-generate sitemap.xml
+  - jekyll-seo-tag       # Adds SEO meta tags & JSON-LD
+#   - jekyll-picture-tag   # Responsive images & WebP/AVIF
+  # - jekyll-archives      # Year/month archive pages

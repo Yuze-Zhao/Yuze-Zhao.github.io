@@ -2,52 +2,36 @@
 layout: page
 ---
 
-## About Me
+# About Me
 
-<img src="https://chaoanli.github.io/ChaoanLi.jpg" class="floatpic" width="360" height="480">
+<img src="https://MUMAAMCS.github.io/yuzezhao.jpg" class="floatpic">
 
-Here is **Chaoan Li**.
+Here is **Yuze Zhao (赵玉泽)**.<br>
 
-I am a Ph.D. student majoring in **Data Science** at Texas A&M University. Currently, I work as a research assistant in the Wm Michael Barnes ’64 Department of Industrial & Systems Engineering, advised by [Dr. Rui Tuo](https://sites.google.com/site/ruituo2017/).
+I am a Master student at the Beijing Normal University, supervised by [Prof. Wen Yuan](https://mathscinet.ams.org/mathscinet/MRAuthorID/743517) and [Prof. Dachun Yang](https://mathscinet.ams.org/mathscinet/MRAuthorID/317762). 
+Prior to BNU, I have worked on applied mathematics under the guidance of [Prof. Junfeng Li](https://mathscinet.ams.org/mathscinet/MRAuthorID/756590) and [Dr. Suqing Wu](https://mathscinet.ams.org/mathscinet/MRAuthorID/1211260). 
 
-If you are interested in any aspect of me, I would love to chat and collaborate, please email me at - *chaoan@tamu.edu*.
-
-By the way, I have a Mandarin chat podcast [EasyPod](https://www.easypod.fun/).
-
-<br>
-
-## Academic Background
-
-- **Aug 2024 - Now:** Texas A&M University (PhD student)
-- **Sep 2021 - Jun 2024:** Beijing Normal University (MS: Pure Mathematics)
-- **Sep 2017 - Jun 2021:** University of Science and Technology Beijing (BS: Mathematics and Applied Mathematics)
-- **Sep 2018 - Jun 2021:** University of Science and Technology Beijing (Minor: Financial Engineering)
-- **Sep 2014 - Jun 2017:** NO.1 Middle School Affiliated to Central China Normal University
-
-<br>
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **yuzezhao [at] mail.bnu.edu.cn**
 
 ---
 
 ## Research Interests
 
-- Large Language Model
-- Quantitative Finance
-- Non-parametric Statistics
-- Web 3
-<br>
+- Machine Learning
+- Approximation Theory
+- Convex Optimization
 
 ---
 
-## News and Updates
-- **May 2025：**Thrilled to pass my Ph.D. qualifying exam on the topic of LLM watermarking, with [Dr. Rui Tuo](https://sites.google.com/site/ruituo2017/), [Dr. Jaesung Lee](https://sites.google.com/view/jaesunglee), and [Dr. David Eckman](https://eckman.engr.tamu.edu/) on the committee.
-- **Aug 2024：**Start my new academic journey at Texas A&M University.
-- **Apr 2024：**One paper accepted to AMAS.
-- **Mar 2024：**Happy to have been admitted as a Ph.D. student of Texas A&M University!
-- **Oct 2023：**Happy to be awarded Academic Innovation Award of BNU, SMS.
-- **Oct 2023：**Happy to be awarded the 1st Prize Academic Scholarship.
-- **May 2023：**One paper accepted to AMP.
-- **Dec 2022：**Happy to be awarded Outstanding TA in 2022.
-- **Aug 2021：**Started research program at Innovative Intellectual Base for Pure Mathematical, Harmonic Analysis and its Applications, advised by Prof. Dachun Yang.
+## My Team in BNU
+
+- **Oct 2023**：Group photo for Harmonic Analysis and Its Applications Conference.
+
+<div>
+<img src="/images/BNUHATeam.jpg">
+</div>
 
 <br>
+
+<!-- <blockquote class="twitter-tweet"><p lang="en" dir="ltr">Thrilled to be an AAAI-UC Scholar at <a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a>, thanks to <a href="https://twitter.com/hashtag/AAAI?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI</a> &amp; <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> for the sponsorship. Grateful for the knowledge gained and new friendships formed.<br><br>Wonderful trip in Vancouver. Looking forward to staying connected with all.<a href="https://twitter.com/hashtag/AAAI24?src=hash&amp;ref_src=twsrc%5Etfw">#AAAI24</a> <a href="https://twitter.com/hashtag/Vancouver?src=hash&amp;ref_src=twsrc%5Etfw">#Vancouver</a> <a href="https://twitter.com/hashtag/GoogleExploreCSR?src=hash&amp;ref_src=twsrc%5Etfw">#GoogleExploreCSR</a> <a href="https://t.co/wUQUp8XlSM">pic.twitter.com/wUQUp8XlSM</a></p>&mdash; Hanlin CAI (seeking a PhD position 2025) (@lancecai2002) <a href="https://twitter.com/lancecai2002/status/1762210025173344260?ref_src=twsrc%5Etfw">February 26, 2024</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> -->
 
