@@ -15,11 +15,20 @@ If you are interested in any aspect of me, I am always open to discussions and a
 
 ---
 
+## Academic Background
+
+- **Sep 2023 - Now**: [Beijing Normal University](https://www.bnu.edu.cn) (MS: Fundamental Mathematics)
+- **Sep 2019 - Jun 2023**: [Dalian University of Technology](https://www.dlut.edu.cn) (BS: Mathematics and Applied Mathematics)
+- **Sep 2016 - Jun 2019**: [Handan No.1 High School](http://www.handanyz.com)
+
+---
+
 ## Research Interests
 
-- Machine Learning
 - Approximation Theory
 - Convex Optimization
+- Quantitative Finance
+- Machine Learning 
 
 ---
 
