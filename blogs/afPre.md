@@ -1,6 +1,7 @@
 ---
 layout: page
 permalink: /blogs/afPre/index.html
+katex: True
 title: afPre
 ---
 
