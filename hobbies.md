@@ -70,7 +70,7 @@ This page is about my hobbies beyond math. Over the past years, I’ve stayed pa
 
 My favorite anime --- **Cowboy Bebop**.
 I strongly recommend!!!
-
+<br>
 I really enjoy the anime soundtrack [Pearls](https://open.spotify.com/track/6X1yT94KVkmAgIGJoCRLFw?si=dbe3c2a6aeab47da).
 
 <div class="one">
@@ -78,7 +78,7 @@ I really enjoy the anime soundtrack [Pearls](https://open.spotify.com/track/6X1y
 
 # Cat & Dog
 
-Fine pictures of cute cat and dog.
+Stunning pictures of cute cat and dog.
 
 <div class="one">
 <img src="/images/cat1.jpg">
