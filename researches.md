@@ -8,7 +8,7 @@ title: Researches
 
 ## Journal Paper
 
-- F. Bu, W. Yuan, D. Yang and **Y. Zhao**, 
+- F. Bu, D. Yang, W. Yuan and **Y. Zhao**, 
 [Matrix Weights, Maximal Operators, Calder\'on--Zygmund Operators, and Besov--Triebel--Lizorkin-Type Spaces --- A Survey](https://Yuze-Zhao.github.io/file/byyz(2025-MatrixWeights)Survey.pdf), Anal. Theory Appl. (to appear).
 
 - S. Wu and **Y. Zhao**, 
