@@ -23,7 +23,3 @@ title: Blogs
 - [Functional Analysis -- Lp](https://Yuze-Zhao.github.io/blogs/faLp)<br>
 - [Functional Analysis 1](https://Yuze-Zhao.github.io/blogs/fa11.13)<br>
 - [Functional Analysis 2](https://Yuze-Zhao.github.io/blogs/fa11.15)<br>
-<!-- - [Functional Analysis 3](https://Yuze-Zhao.github.io/blogs/fa11.22)<br>
-- [Functional Analysis 4](https://Yuze-Zhao.github.io/blogs/fa12.4)<br> -->
-
-
