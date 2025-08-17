@@ -9,7 +9,7 @@ title: Researches
 ## Journal Paper
 
 - F. Bu, W. Yuan, D. Yang and **Y. Zhao**, 
-[Matrix Weights, Maximal Operators, Calder\'on--Zygmund Operators, and Besov--Triebel--Lizorkin-Type Spaces --- A Survey](https://MUMAAMCS.github.io/file/byyz(2025-MatrixWeights)Survey.pdf), Anal. Theory Appl. (to appear).
+[Matrix Weights, Maximal Operators, Calder\'on--Zygmund Operators, and Besov--Triebel--Lizorkin-Type Spaces --- A Survey](https://Yuze-Zhao.github.io/file/byyz(2025-MatrixWeights)Survey.pdf), Anal. Theory Appl. (to appear).
 
 - S. Wu and **Y. Zhao**, 
 Truncations of Logarithmic Besov Spaces, finished and currently under revision.
@@ -20,7 +20,7 @@ Truncations of Logarithmic Besov Spaces, finished and currently under revision.
 ## Early Project
 
 - The Undergraduate Student Innovation Practice Program: <br>
-[Quantitative strategy research with artificial intelligence](https://MUMAAMCS.github.io/file/ProgramCompilation.pdf). <br>
+[Quantitative strategy research with artificial intelligence](https://Yuze-Zhao.github.io/file/ProgramCompilation.pdf). <br>
 Advisors: Mingsong Cheng and Ben Duan, <br> 
 participants: Yiyang Lv and **Yuze Zhao**, <br>
  Mar. 2021 -- Apr. 2022

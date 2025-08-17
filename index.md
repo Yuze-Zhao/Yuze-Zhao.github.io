@@ -4,7 +4,7 @@ layout: page
 
 # About Me
 
-<img src="https://MUMAAMCS.github.io/yuzezhao.jpg" class="floatpic">
+<img src="https://Yuze-Zhao.github.io/yuzezhao.jpg" class="floatpic">
 
 Here is **Yuze Zhao (赵玉泽)**.<br>
 
