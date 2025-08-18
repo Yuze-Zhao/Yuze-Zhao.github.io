@@ -4,27 +4,27 @@ permalink: /blogs/approximationtheory/index.html
 title: approximationtheory
 ---
 
-## 确定 $\int^1_{-1}f(x)\ dx=A_0x_0+A_1x_1$ 拥有最高的代数精度
+## Determine that \(\int_{-1}^1 f(x)\, dx = A_0x_0 + A_1x_1\) has the highest algebraic degree of precision
 
-只需要解决方程
-
-$$
-\begin{cases}
-A_0+A_1=b-a=2\\
-A_0x_0+A_1x_1=0
-\end{cases}
-$$
-
-带入 $x_0=-1,\ x_1=1$ 显然可以解出 $A_0=A_1=1$ 。
-
-积分公式为梯形积分公式，符合我们的期望，它的代数精度只有1。若代数精度 $m>1$ ，
+We only need to solve the system of equations:
 
 $$
 \begin{cases}
-A_0+A_1=2\\
-A_0x_0+A_1x_1=0\\
-A_0x_0^2+A_1x_1^2=\frac 2 3
+A_0 + A_1 = b - a = 2, \\
+A_0x_0 + A_1x_1 = 0
 \end{cases}
 $$
 
-易见该方程是无解的。至此证明了该积分公式具有最高的代数精度。
+Substituting $x_0 = -1,\ x_1 = 1$ , it is clear that we obtain $A_0 = A_1 = 1$ .
+
+Thus, the integration formula is the trapezoidal rule, which matches our expectation. Its algebraic degree of precision is only 1. If we suppose the algebraic degree of precision $m > 1$ , then we would have to satisfy:
+
+$$
+\begin{cases}
+A_0 + A_1 = 2, \\
+A_0x_0 + A_1x_1 = 0, \\
+A_0x_0^2 + A_1x_1^2 = \tfrac{2}{3}
+\end{cases}
+$$
+
+It is evident that this system has no solution. Therefore, we conclude that this quadrature formula attains the highest possible algebraic degree of precision.
