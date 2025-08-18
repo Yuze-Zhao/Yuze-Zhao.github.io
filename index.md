@@ -30,8 +30,9 @@ Advisor: Junfeng Li
 
 ## Research Interests
 
-- Approximation Theory
+- Compressed Sensing
 - Convex Optimization
+- Approximation Theory
 - Quantitative Finance
 - Machine Learning 
 
