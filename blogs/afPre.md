@@ -4,21 +4,21 @@ permalink: /blogs/afPre/index.html
 title: afPre
 ---
 
-# 什么是泛函分析
-1. 泛函分析就是无穷维空间上的分析（数学分析或高等代数）
-2. 起源（背景）：数学物理中具体的分析问题
-3. 研究方法：具体的分析问题抽象为具有拓扑（度量）和（或）代数结构空间上的分析问题
-4. 现状：内容丰富，应用广泛数学工作者必须的工具
+# What is Functional Analysis
+1. Functional analysis is analysis (mathematical analysis or advanced algebra) on infinite-dimensional spaces.  
+2. Origin (background): Specific analytical problems in mathematical physics.  
+3. Research method: Abstract specific analytical problems into problems of analysis on spaces with topological (metric) and/or algebraic structures.  
+4. Current status: Rich in content, widely applied, an essential tool for mathematicians.  
 
-| 数分 & 高代 | 有限维 $\mathbb{R}^n （\mathbb{C}^n）$ | 矩阵和函数   | 特征值 | 零点 |
-| :---------: | :------------------------------------: | :----------: | :----: | :--: |
-| 泛函        | 无穷维空间                             | $l^p$ , $C[a,b]$ | 算子   | 谱   |
+| Calculus & Linear Algebra | Finite-dimensional $\mathbb{R}^n (\mathbb{C}^n)$ | Matrices and Functions | Eigenvalues | Zeros |
+| :-----------------------: | :---------------------------------------------: | :--------------------: | :---------: | :---: |
+| Functional Analysis       | Infinite-dimensional spaces                      | $l^p$ , $C[a,b]$       | Operators   | Spectrum |
 
-## 不完备的赋范线性空间
+## Incomplete Normed Linear Spaces
 
- 1. 多项式 $P[0,1]$ $\|P\|_{P[0,1]}:=\max_{t\in[0,1]}{| P(t)|}$ , 其完备化为 $C[0,1]$ 
- 2. $\|f\|_{C[0,1]}:=\int^1_{0}|f|\,dx$ , 其完备化为 $L^1[0,1]$ 
+1. Polynomials $P[0,1]$, $\|P\|_{P[0,1]}:=\max_{t\in[0,1]}{| P(t)|}$, its completion is $C[0,1]$.  
+2. $\|f\|_{C[0,1]}:=\int^1_{0}|f|\,dx$, its completion is $L^1[0,1]$.  
 
-## 算子范数的定义
+## Definition of Operator Norm
 
-$$\|T\|_{\mathcal{L}(\mathcal X,\ \mathcal Y)}=\sup_{x\in\mathcal X\backslash\{0\} }\frac{\|T\|}{2}$$
+$$\|T\|_{\mathcal{L}(\mathcal X,\ \mathcal Y)}=\sup_{x\in\mathcal X\backslash\{0\} }\frac{\|Tx\|}{\|x\|}$$

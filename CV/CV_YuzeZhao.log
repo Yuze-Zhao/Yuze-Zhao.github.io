@@ -1,0 +1,1227 @@
+This is XeTeX, Version 3.141592653-2.6-0.999993 (TeX Live 2021) (preloaded format=xelatex 2021.8.13)  21 AUG 2025 13:58
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**/Users/zhaoyuze/Documents/GitHub/Yuze-Zhao.github.io/CV/CV_YuzeZhao
+(/Users/zhaoyuze/Documents/GitHub/Yuze-Zhao.github.io/CV/CV_YuzeZhao.tex
+LaTeX2e <2020-10-01> patch level 4
+L3 programming layer <2021-02-18> (/usr/local/texlive/2021/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
+(/usr/local/texlive/2021/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2020/04/10 v1.4m Standard LaTeX file (size option)
+)
+\c@part=\count175
+\c@section=\count176
+\c@subsection=\count177
+\c@subsubsection=\count178
+\c@paragraph=\count179
+\c@subparagraph=\count180
+\c@figure=\count181
+\c@table=\count182
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/base/latexsym.sty
+Package: latexsym 1998/08/17 v2.2e Standard LaTeX package (lasy symbols)
+\symlasy=\mathgroup4
+LaTeX Font Info:    Overwriting symbol font `lasy' in version `bold'
+(Font)                  U/lasy/m/n --> U/lasy/b/n on input line 52.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/preprint/fullpage.sty
+Package: fullpage 1999/02/23 1.1 (PWD)
+\FP@margin=\skip49
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/titlesec/titlesec.sty
+Package: titlesec 2019/10/16 v2.13 Sectioning titles
+\ttl@box=\box47
+\beforetitleunit=\skip50
+\aftertitleunit=\skip51
+\ttl@plus=\dimen139
+\ttl@minus=\dimen140
+\ttl@toksa=\toks15
+\titlewidth=\dimen141
+\titlewidthlast=\dimen142
+\titlewidthfirst=\dimen143
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/marvosym/marvosym.sty
+Package: marvosym 2011/07/20 v2.2 Martin Vogel's Symbols font definitions
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2020/02/24 v1.2b Standard LaTeX Color (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: xetex.def on input line 147.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics-def/xetex.def
+File: xetex.def 2021/03/18 v5.0k Graphics/color driver for xetex
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/dvipsnam.def
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks16
+\verbatim@line=\toks17
+\verbatim@in@stream=\read2
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2019/06/20 v3.9 Customized lists
+\enitkv@toks@=\toks18
+\labelindent=\skip52
+\enit@outerparindent=\dimen144
+\enit@toks=\toks19
+\enit@inbox=\box48
+\enit@count@id=\count183
+\enitdp@description=\count184
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2021-02-27 v7.00k Hypertext links for LaTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftexcmds/pdftexcmds.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/infwarerr/infwarerr.sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode not found.
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks20
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/kvdefinekeys/kvdefinekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdfescape/pdfescape.sty
+Package: pdfescape 2019/12/09 v1.15 Implements pdfTeX's escape features (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hycolor/hycolor.sty
+Package: hycolor 2020-01-27 v1.10 Color options for hyperref/bookmark (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/letltxmacro/letltxmacro.sty
+Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/auxhook/auxhook.sty
+Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+)
+\@linkdim=\dimen145
+\Hy@linkcounter=\count185
+\Hy@pagecounter=\count186
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2021-02-27 v7.00k Hyperref: PDFDocEncoding definition (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hyperref-langpatches.def
+File: hyperref-langpatches.def 2021-02-27 v7.00k Hyperref: patches for babel languages
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/intcalc/intcalc.sty
+Package: intcalc 2019/12/15 v1.3 Expandable calculations with integers (HO)
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/etexcmds/etexcmds.sty
+Package: etexcmds 2019/12/15 v1.7 Avoid name clashes with e-TeX commands (HO)
+)
+\Hy@SavedSpaceFactor=\count187
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/puenc.def
+File: puenc.def 2021-02-27 v7.00k Hyperref: PDF Unicode definition (HO)
+)
+Package hyperref Info: Hyper figures OFF on input line 4192.
+Package hyperref Info: Link nesting OFF on input line 4197.
+Package hyperref Info: Hyper index ON on input line 4200.
+Package hyperref Info: Plain pages OFF on input line 4207.
+Package hyperref Info: Backreferencing OFF on input line 4212.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4445.
+\c@Hy@tempcnt=\count188
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip16
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 4804.
+\XeTeXLinkMargin=\dimen146
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bitset/bitset.sty
+Package: bitset 2019/12/09 v1.3 Handle bit-vector datatype (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/bigintcalc/bigintcalc.sty
+Package: bigintcalc 2019/12/15 v1.5 Expandable calculations on big integers (HO)
+))
+\Fld@menulength=\count189
+\Field@Width=\dimen147
+\Fld@charsize=\dimen148
+Package hyperref Info: Hyper figures OFF on input line 6075.
+Package hyperref Info: Link nesting OFF on input line 6080.
+Package hyperref Info: Hyper index ON on input line 6083.
+Package hyperref Info: backreferencing OFF on input line 6090.
+Package hyperref Info: Link coloring OFF on input line 6095.
+Package hyperref Info: Link coloring with OCG OFF on input line 6100.
+Package hyperref Info: PDF/A mode OFF on input line 6105.
+LaTeX Info: Redefining \ref on input line 6145.
+LaTeX Info: Redefining \pageref on input line 6149.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atbegshi-ltx.sty
+Package: atbegshi-ltx 2020/08/17 v1.0a Emulation of the original atbegshi package
+with kernel methods
+)
+\Hy@abspage=\count190
+\c@Item=\count191
+\c@Hfootnote=\count192
+)
+Package hyperref Info: Driver (autodetected): hxetex.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/hyperref/hxetex.def
+File: hxetex.def 2021-02-27 v7.00k Hyperref driver for XeTeX
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/stringenc/stringenc.sty
+Package: stringenc 2019/11/29 v1.12 Convert strings between diff. encodings (HO)
+)
+\pdfm@box=\box49
+\c@Hy@AnnotLevel=\count193
+\HyField@AnnotCount=\count194
+\Fld@listcount=\count195
+\c@bookmark@seq@number=\count196
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
+Package: rerunfilecheck 2019/12/05 v1.9 Rerun checks for auxiliary files (HO)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/base/atveryend-ltx.sty
+Package: atveryend-ltx 2020/08/19 v1.0a Emulation of the original atvery package
+with kernel methods
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+Package: uniquecounter 2019/12/15 v1.4 Provide unlimited unique counter (HO)
+)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 286.
+)
+\Hy@SectionHShift=\skip53
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+Package: fancyhdr 2021/01/28 v4.0.1 Extensive control of page headers and footers
+\f@nch@headwidth=\skip54
+\f@nch@O@elh=\skip55
+\f@nch@O@erh=\skip56
+\f@nch@O@olh=\skip57
+\f@nch@O@orh=\skip58
+\f@nch@O@elf=\skip59
+\f@nch@O@erf=\skip60
+\f@nch@O@olf=\skip61
+\f@nch@O@orf=\skip62
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2021/03/24 3.56 The Babel package
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/babel.def
+File: babel.def 2021/03/24 3.56 Babel common definitions
+\babel@savecnt=\count197
+\U@D=\dimen149
+\l@babelnohyphens=\language87
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/xebabel.def (/usr/local/texlive/2021/texmf-dist/tex/generic/babel/txtbabel.def))
+\bbl@readstream=\read3
+)
+\bbl@dirlevel=\count198
+ (/usr/local/texlive/2021/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: \l@canadian = using hyphenrules for english
+(babel)             (\language0) on input line 102.
+Package babel Info: \l@australian = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 105.
+Package babel Info: \l@newzealand = using hyphenrules for ukenglish
+(babel)             (\language21) on input line 108.
+)) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/tabularx.sty
+Package: tabularx 2020/01/15 v2.11c `tabularx' package (DPC)
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/array.sty
+Package: array 2020/10/01 v2.5c Tabular extension package (FMi)
+\col@sep=\dimen150
+\ar@mcellbox=\box50
+\extrarowheight=\dimen151
+\NC@list=\toks21
+\extratabsurround=\skip63
+\backup@length=\skip64
+\ar@cellbox=\box51
+)
+\TX@col@width=\dimen152
+\TX@old@table=\dimen153
+\TX@old@col=\dimen154
+\TX@target=\dimen155
+\TX@delta=\dimen156
+\TX@cols=\count199
+\TX@ftn=\toks22
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/fontawesome5.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3kernel/expl3.sty
+Package: expl3 2021-02-18 L3 programming layer (loader) 
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3backend/l3backend-xetex.def
+File: l3backend-xetex.def 2021-03-18 L3 backend support: XeTeX
+ (|extractbb --version)
+\c__kernel_sys_dvipdfmx_version_int=\count266
+\l__color_backend_stack_int=\count267
+\g__color_backend_stack_int=\count268
+\g__graphics_track_int=\count269
+\l__pdf_internal_box=\box52
+\g__pdf_backend_object_int=\count270
+\g__pdf_backend_annotation_int=\count271
+\g__pdf_backend_link_int=\count272
+))
+Package: fontawesome5 2020/03/24 v5.13.0 Font Awesome 5
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/l3keys2e/l3keys2e.sty
+Package: l3keys2e 2021-03-12 LaTeX2e option processing using LaTeX3 keys
+) (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-2020-10-01.sty (/usr/local/texlive/2021/texmf-dist/tex/latex/l3packages/xparse/xparse-generic.tex))) (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/fontawesome5-utex-helper.sty
+Package: fontawesome5-utex-helper 2020/03/24 v5.13.0 uTeX helper for fontawesome5
+LaTeX Font Info:    Trying to load font information for TU+fontawesomefree on input line 69.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/tufontawesomefree.fd)
+LaTeX Font Info:    Trying to load font information for TU+fontawesomebrands on input line 70.
+ (/usr/local/texlive/2021/texmf-dist/tex/latex/fontawesome5/tufontawesomebrands.fd))) (/usr/local/texlive/2021/texmf-dist/tex/latex/tools/multicol.sty
+Package: multicol 2019/12/09 v1.8y multicolumn formatting (FMi)
+\c@tracingmulticols=\count273
+\mult@box=\box53
+\multicol@leftmargin=\dimen157
+\c@unbalance=\count274
+\c@collectmore=\count275
+\doublecol@number=\count276
+\multicoltolerance=\count277
+\multicolpretolerance=\count278
+\full@width=\dimen158
+\page@free=\dimen159
+\premulticols=\dimen160
+\postmulticols=\dimen161
+\multicolsep=\skip65
+\multicolbaselineskip=\skip66
+\partial@page=\box54
+\last@line=\box55
+\maxbalancingoverflow=\dimen162
+\mult@rightbox=\box56
+\mult@grightbox=\box57
+\mult@gfirstbox=\box58
+\mult@firstbox=\box59
+\@tempa=\box60
+\@tempa=\box61
+\@tempa=\box62
+\@tempa=\box63
+\@tempa=\box64
+\@tempa=\box65
+\@tempa=\box66
+\@tempa=\box67
+\@tempa=\box68
+\@tempa=\box69
+\@tempa=\box70
+\@tempa=\box71
+\@tempa=\box72
+\@tempa=\box73
+\@tempa=\box74
+\@tempa=\box75
+\@tempa=\box76
+\@tempa=\box77
+\@tempa=\box78
+\@tempa=\box79
+\@tempa=\box80
+\@tempa=\box81
+\@tempa=\box82
+\@tempa=\box83
+\@tempa=\box84
+\@tempa=\box85
+\@tempa=\box86
+\@tempa=\box87
+\@tempa=\box88
+\@tempa=\box89
+\@tempa=\box90
+\@tempa=\box91
+\@tempa=\box92
+\@tempa=\box93
+\@tempa=\box94
+\@tempa=\box95
+\@tempa=\box96
+\c@minrows=\count279
+\c@columnbadness=\count280
+\c@finalcolumnbadness=\count281
+\last@try=\dimen163
+\multicolovershoot=\dimen164
+\multicolundershoot=\dimen165
+\mult@nat@firstbox=\box97
+\colbreak@box=\box98
+\mc@col@check@num=\count282
+) (/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:7: Undefined control sequence.
+l.7 \pdfglyphtounicode
+                      {A}{0041}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:7: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.7 \pdfglyphtounicode{A
+                        }{0041}
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:8: Undefined control sequence.
+l.8 \pdfglyphtounicode
+                      {AE}{00C6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:9: Undefined control sequence.
+l.9 \pdfglyphtounicode
+                      {AEacute}{01FC}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:10: Undefined control sequence.
+l.10 \pdfglyphtounicode
+                       {AEmacron}{01E2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:11: Undefined control sequence.
+l.11 \pdfglyphtounicode
+                       {AEsmall}{00E6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:12: Undefined control sequence.
+l.12 \pdfglyphtounicode
+                       {Aacute}{00C1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:13: Undefined control sequence.
+l.13 \pdfglyphtounicode
+                       {Aacutesmall}{00E1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:14: Undefined control sequence.
+l.14 \pdfglyphtounicode
+                       {Abreve}{0102}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:15: Undefined control sequence.
+l.15 \pdfglyphtounicode
+                       {Abreveacute}{1EAE}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:16: Undefined control sequence.
+l.16 \pdfglyphtounicode
+                       {Abrevecyrillic}{04D0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:17: Undefined control sequence.
+l.17 \pdfglyphtounicode
+                       {Abrevedotbelow}{1EB6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:18: Undefined control sequence.
+l.18 \pdfglyphtounicode
+                       {Abrevegrave}{1EB0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:19: Undefined control sequence.
+l.19 \pdfglyphtounicode
+                       {Abrevehookabove}{1EB2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:20: Undefined control sequence.
+l.20 \pdfglyphtounicode
+                       {Abrevetilde}{1EB4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:21: Undefined control sequence.
+l.21 \pdfglyphtounicode
+                       {Acaron}{01CD}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:22: Undefined control sequence.
+l.22 \pdfglyphtounicode
+                       {Acircle}{24B6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:23: Undefined control sequence.
+l.23 \pdfglyphtounicode
+                       {Acircumflex}{00C2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:24: Undefined control sequence.
+l.24 \pdfglyphtounicode
+                       {Acircumflexacute}{1EA4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:25: Undefined control sequence.
+l.25 \pdfglyphtounicode
+                       {Acircumflexdotbelow}{1EAC}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:26: Undefined control sequence.
+l.26 \pdfglyphtounicode
+                       {Acircumflexgrave}{1EA6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:27: Undefined control sequence.
+l.27 \pdfglyphtounicode
+                       {Acircumflexhookabove}{1EA8}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:28: Undefined control sequence.
+l.28 \pdfglyphtounicode
+                       {Acircumflexsmall}{00E2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:29: Undefined control sequence.
+l.29 \pdfglyphtounicode
+                       {Acircumflextilde}{1EAA}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:30: Undefined control sequence.
+l.30 \pdfglyphtounicode
+                       {Acute}{00B4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:31: Undefined control sequence.
+l.31 \pdfglyphtounicode
+                       {Acutesmall}{00B4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:32: Undefined control sequence.
+l.32 \pdfglyphtounicode
+                       {Acyrillic}{0410}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:33: Undefined control sequence.
+l.33 \pdfglyphtounicode
+                       {Adblgrave}{0200}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:34: Undefined control sequence.
+l.34 \pdfglyphtounicode
+                       {Adieresis}{00C4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:35: Undefined control sequence.
+l.35 \pdfglyphtounicode
+                       {Adieresiscyrillic}{04D2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:36: Undefined control sequence.
+l.36 \pdfglyphtounicode
+                       {Adieresismacron}{01DE}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:37: Undefined control sequence.
+l.37 \pdfglyphtounicode
+                       {Adieresissmall}{00E4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:38: Undefined control sequence.
+l.38 \pdfglyphtounicode
+                       {Adotbelow}{1EA0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:39: Undefined control sequence.
+l.39 \pdfglyphtounicode
+                       {Adotmacron}{01E0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:40: Undefined control sequence.
+l.40 \pdfglyphtounicode
+                       {Agrave}{00C0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:41: Undefined control sequence.
+l.41 \pdfglyphtounicode
+                       {Agravesmall}{00E0}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:42: Undefined control sequence.
+l.42 \pdfglyphtounicode
+                       {Ahookabove}{1EA2}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:43: Undefined control sequence.
+l.43 \pdfglyphtounicode
+                       {Aiecyrillic}{04D4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:44: Undefined control sequence.
+l.44 \pdfglyphtounicode
+                       {Ainvertedbreve}{0202}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:45: Undefined control sequence.
+l.45 \pdfglyphtounicode
+                       {Alpha}{0391}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:46: Undefined control sequence.
+l.46 \pdfglyphtounicode
+                       {Alphatonos}{0386}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:47: Undefined control sequence.
+l.47 \pdfglyphtounicode
+                       {Amacron}{0100}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:48: Undefined control sequence.
+l.48 \pdfglyphtounicode
+                       {Amonospace}{FF21}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:49: Undefined control sequence.
+l.49 \pdfglyphtounicode
+                       {Aogonek}{0104}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:50: Undefined control sequence.
+l.50 \pdfglyphtounicode
+                       {Aring}{00C5}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:51: Undefined control sequence.
+l.51 \pdfglyphtounicode
+                       {Aringacute}{01FA}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:52: Undefined control sequence.
+l.52 \pdfglyphtounicode
+                       {Aringbelow}{1E00}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:53: Undefined control sequence.
+l.53 \pdfglyphtounicode
+                       {Aringsmall}{00E5}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:54: Undefined control sequence.
+l.54 \pdfglyphtounicode
+                       {Asmall}{0061}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:55: Undefined control sequence.
+l.55 \pdfglyphtounicode
+                       {Atilde}{00C3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:56: Undefined control sequence.
+l.56 \pdfglyphtounicode
+                       {Atildesmall}{00E3}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:57: Undefined control sequence.
+l.57 \pdfglyphtounicode
+                       {Aybarmenian}{0531}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:58: Undefined control sequence.
+l.58 \pdfglyphtounicode
+                       {B}{0042}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:59: Undefined control sequence.
+l.59 \pdfglyphtounicode
+                       {Bcircle}{24B7}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:60: Undefined control sequence.
+l.60 \pdfglyphtounicode
+                       {Bdotaccent}{1E02}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:61: Undefined control sequence.
+l.61 \pdfglyphtounicode
+                       {Bdotbelow}{1E04}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:62: Undefined control sequence.
+l.62 \pdfglyphtounicode
+                       {Becyrillic}{0411}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:63: Undefined control sequence.
+l.63 \pdfglyphtounicode
+                       {Benarmenian}{0532}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:64: Undefined control sequence.
+l.64 \pdfglyphtounicode
+                       {Beta}{0392}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:65: Undefined control sequence.
+l.65 \pdfglyphtounicode
+                       {Bhook}{0181}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:66: Undefined control sequence.
+l.66 \pdfglyphtounicode
+                       {Blinebelow}{1E06}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:67: Undefined control sequence.
+l.67 \pdfglyphtounicode
+                       {Bmonospace}{FF22}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:68: Undefined control sequence.
+l.68 \pdfglyphtounicode
+                       {Brevesmall}{02D8}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:69: Undefined control sequence.
+l.69 \pdfglyphtounicode
+                       {Bsmall}{0062}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:70: Undefined control sequence.
+l.70 \pdfglyphtounicode
+                       {Btopbar}{0182}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:71: Undefined control sequence.
+l.71 \pdfglyphtounicode
+                       {C}{0043}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:72: Undefined control sequence.
+l.72 \pdfglyphtounicode
+                       {Caarmenian}{053E}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:73: Undefined control sequence.
+l.73 \pdfglyphtounicode
+                       {Cacute}{0106}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:74: Undefined control sequence.
+l.74 \pdfglyphtounicode
+                       {Caron}{02C7}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:75: Undefined control sequence.
+l.75 \pdfglyphtounicode
+                       {Caronsmall}{02C7}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:76: Undefined control sequence.
+l.76 \pdfglyphtounicode
+                       {Ccaron}{010C}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:77: Undefined control sequence.
+l.77 \pdfglyphtounicode
+                       {Ccedilla}{00C7}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:78: Undefined control sequence.
+l.78 \pdfglyphtounicode
+                       {Ccedillaacute}{1E08}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:79: Undefined control sequence.
+l.79 \pdfglyphtounicode
+                       {Ccedillasmall}{00E7}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:80: Undefined control sequence.
+l.80 \pdfglyphtounicode
+                       {Ccircle}{24B8}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:81: Undefined control sequence.
+l.81 \pdfglyphtounicode
+                       {Ccircumflex}{0108}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:82: Undefined control sequence.
+l.82 \pdfglyphtounicode
+                       {Cdot}{010A}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:83: Undefined control sequence.
+l.83 \pdfglyphtounicode
+                       {Cdotaccent}{010A}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:84: Undefined control sequence.
+l.84 \pdfglyphtounicode
+                       {Cedillasmall}{00B8}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:85: Undefined control sequence.
+l.85 \pdfglyphtounicode
+                       {Chaarmenian}{0549}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:86: Undefined control sequence.
+l.86 \pdfglyphtounicode
+                       {Cheabkhasiancyrillic}{04BC}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:87: Undefined control sequence.
+l.87 \pdfglyphtounicode
+                       {Checyrillic}{0427}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:88: Undefined control sequence.
+l.88 \pdfglyphtounicode
+                       {Chedescenderabkhasiancyrillic}{04BE}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:89: Undefined control sequence.
+l.89 \pdfglyphtounicode
+                       {Chedescendercyrillic}{04B6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:90: Undefined control sequence.
+l.90 \pdfglyphtounicode
+                       {Chedieresiscyrillic}{04F4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:91: Undefined control sequence.
+l.91 \pdfglyphtounicode
+                       {Cheharmenian}{0543}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:92: Undefined control sequence.
+l.92 \pdfglyphtounicode
+                       {Chekhakassiancyrillic}{04CB}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:93: Undefined control sequence.
+l.93 \pdfglyphtounicode
+                       {Cheverticalstrokecyrillic}{04B8}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:94: Undefined control sequence.
+l.94 \pdfglyphtounicode
+                       {Chi}{03A7}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:95: Undefined control sequence.
+l.95 \pdfglyphtounicode
+                       {Chook}{0187}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:96: Undefined control sequence.
+l.96 \pdfglyphtounicode
+                       {Circumflexsmall}{02C6}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:97: Undefined control sequence.
+l.97 \pdfglyphtounicode
+                       {Cmonospace}{FF23}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:98: Undefined control sequence.
+l.98 \pdfglyphtounicode
+                       {Coarmenian}{0551}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:99: Undefined control sequence.
+l.99 \pdfglyphtounicode
+                       {Csmall}{0063}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:100: Undefined control sequence.
+l.100 \pdfglyphtounicode
+                        {D}{0044}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:101: Undefined control sequence.
+l.101 \pdfglyphtounicode
+                        {DZ}{01F1}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:102: Undefined control sequence.
+l.102 \pdfglyphtounicode
+                        {DZcaron}{01C4}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:103: Undefined control sequence.
+l.103 \pdfglyphtounicode
+                        {Daarmenian}{0534}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:104: Undefined control sequence.
+l.104 \pdfglyphtounicode
+                        {Dafrican}{0189}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+/usr/local/texlive/2021/texmf-dist/tex/generic/pdftex/glyphtounicode.tex:105: Undefined control sequence.
+l.105 \pdfglyphtounicode
+                        {Dbar}{0110}
+(That makes 100 errors; please try again.) 
+Here is how much of TeX's memory you used:
+ 10947 strings out of 476919
+ 159088 string characters out of 5821840
+ 485890 words of memory out of 5000000
+ 30827 multiletter control sequences out of 15000+600000
+ 403814 words of font info for 31 fonts, out of 8000000 for 9000
+ 1348 hyphenation exceptions out of 8191
+ 71i,0n,77p,326b,140s stack positions out of 5000i,500n,10000p,200000b,80000s
+
+No pages of output.

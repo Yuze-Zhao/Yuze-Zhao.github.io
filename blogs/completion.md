@@ -4,29 +4,29 @@ permalink: /blogs/completion/index.html
 title: completion
 ---
 
-## 完备空间
+## Complete Spaces
 
-1. 空间完备即任意Cauchy列都收敛；任何不完备的赋范线性空间都有完备化。
-2. 空间的完备化是在等距同构的意义下唯一的。
-3. 该唯一性依赖于==稠密==。
-## 稠密的重要性
+1. A space is complete if every Cauchy sequence converges; any incomplete normed linear space has a completion.  
+2. The completion of a space is unique in the sense of isometric isomorphism.  
+   - In categorical terms, the completion is unique up to a unique isometric isomorphism: for any two completions of a given normed space, there exists a unique isometric isomorphism between them that restricts to the identity on the original space.  
+3. This uniqueness relies on **density**.  
+
+## The Importance of Density
 
 $$X:=\left\{(x_1, x_2,...)\in \mathbb R^\infty,\ \sup_{n\in \mathbb N} |x_n|<\infty\right\}$$
 
-$$X_1:=\left\{(x_1, x_2,...)\in \mathbb R^\infty,\ x_1=0\ or\ 1,\ \sup_{n\in \mathbb N} |x_n|<\infty\right\}$$
+$$X_1:=\left\{(x_1, x_2,...)\in \mathbb R^\infty,\ x_1=0\ \text{or}\ 1,\ \sup_{n\in \mathbb N} |x_n|<\infty\right\}$$
 
 $$X_2:=\left\{(0,x_1, x_2,...)\in \mathbb R^\infty,\ \sup_{n\in \mathbb N} |x_n|<\infty\right\}$$
 
-显然 $(X, d)$ 是一个完备空间且它是自身的一个完备化。易证 $(X_1,d)$ 也是 $(X, d)$ 的一个完备化空间。现定义
+Clearly, $(X, d)$ is a complete space, and it is its own completion. It is easy to prove that $(X_1, d)$ is also a completion of $(X, d)$. Now define
 
 $$X_3:=\left\{(1,x_1, x_2,...)\in \mathbb R^\infty,\ \sup_{n\in \mathbb N} |x_n|<\infty\right\}$$
 
-我们来证明 $(X_1,d)$ 和 $(X, d)$ 并非同胚。事实上 $(X_1,d)$ 并不是连通的[^1]。我们来证明它。关键在于证明 $X_2$ 和 $X_3$ 均为开集合。取 $x\in X_3,\ B(x,\frac 1 2)\cap X_1\subset X_3$ ，==这说明每个 $X_3$ 中的点都有一个开临域==。同理 $X_2$ 也是开集。又有 $X_2\cup X_3= X_1$ ，则后者不连通。
+We aim to prove that $(X_1, d)$ and $(X, d)$ are not homeomorphic. In fact, $(X_1, d)$ is not connected[^1]. Let us prove this. The key is to show that both $X_2$ and $X_3$ are open sets. Take $x\in X_3$, then $B(x,\tfrac 1 2)\cap X_1\subset X_3$ — **this shows that every point in $X_3$ has an open neighborhood**. Similarly, $X_2$ is also open. Since $X_2\cup X_3= X_1$, the latter is not connected.  
 
-从上述证明，我们就能看出稠密性的重要性。实际上他所定义的“最小”给出了度量空间按照等距映射的一个序关系。但是这个序关系并不是全序的，所以有可能存在两个完全不相干的全序列，即可能存在两个不同的极小元。
+From this proof, we can see the importance of density. In fact, the definition of “minimal” gives a partial order of metric spaces under isometries. However, this order is not total, so it is possible to have two completely unrelated chains, i.e., two different minimal elements.  
 
-**只有等距同构保证不了同胚性。**
+**Isometric isomorphism alone does not guarantee homeomorphism.**
 
-[^1]:连通的集合不能被分割为两个不交开集合的并。
-
-
+[^1]: A connected set cannot be split into the union of two disjoint open sets.
