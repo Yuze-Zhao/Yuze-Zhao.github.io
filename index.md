@@ -40,7 +40,7 @@ Advisor: Junfeng Li
 
 ## My Team in BNU
 
-- **Oct 2023**：Group photo for Harmonic Analysis and Its Applications Conference.
+- **Group photo for Harmonic Analysis and Its Applications Conference.**
 
 <div>
 <img src="/images/BNUHATeam.jpg">
