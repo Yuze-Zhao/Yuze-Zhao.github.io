@@ -20,6 +20,7 @@
 \usepackage{tabularx}
 \usepackage{fontawesome5}
 \usepackage{multicol}
+\usepackage{amsmath}
 \setlength{\multicolsep}{-3.0pt}
 \setlength{\columnsep}{1pt}
 \input{glyphtounicode}
@@ -70,6 +71,15 @@
     \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
       \textbf{#1} & #2 \\
       \textit{#3} & \textit{#4} \\
+    \end{tabular*}\vspace{-5pt}
+}
+
+\newcommand{\resumeSubheadingEd}[6]{
+  \vspace{-1pt}\item
+    \begin{tabular*}{0.97\textwidth}{l@{\extracolsep{\fill}}r}
+      \textbf{#1} & #2 \\
+      \textit{#3} & \textit{#4} \\
+      \textit{#5} & #6\\
     \end{tabular*}\vspace{-5pt}
 }
 
@@ -125,19 +135,19 @@
 
 \resumeSubHeadingListStart
 
-\resumeSubheading
+\resumeSubheadingEd
 {Beijing Normal University (BNU)}{Beijing, China}
 {M. S. - Pure Mathematics}{Sep. 2023 -- Now}
 {\scriptsize \text{ \large{\newline{}
 \textbf{Advisors:} \href{https://mathscinet.ams.org/mathscinet/MRAuthorID/317762}{Prof. Dachun Yang} and 
-\href{https://mathscinet.ams.org/mathscinet/MRAuthorID/743517}{Prof. Wen Yuan}}}}
+\href{https://mathscinet.ams.org/mathscinet/MRAuthorID/743517}{Prof. Wen Yuan}}}}{}
 
-\resumeSubheading
+\resumeSubheadingEd
 {Dalian University of Technology (DUT)}{Dalian, China}
 {B. S. - Mathematics and Applied Mathematics}
 {Sep. 2019 -- Jul. 2023}
 {\scriptsize \text{ \large{\newline{}\textbf{Advisors:} \href{https://mathscinet.ams.org/mathscinet/MRAuthorID/756590}{Prof. Junfeng Li}
-and \href{https://mathscinet.ams.org/mathscinet/MRAuthorID/1211260}{Prof. Suqing Wu}}}}
+and \href{https://mathscinet.ams.org/mathscinet/MRAuthorID/1211260}{Prof. Suqing Wu}}}}{}
 
 \resumeSubHeadingListEnd
 \vspace{2pt}
@@ -154,7 +164,7 @@ and \href{https://mathscinet.ams.org/mathscinet/MRAuthorID/1211260}{Prof. Suqing
 \vspace{2pt}
 
 \section{\bfseries{Research Interests}}
-Harmonica Analysis, Compressed Sensing, Signal and Image Processing, Optimization, Machine Learning.
+Harmonica Analysis, Matrix Sensing, Optimization.
 \vspace{2pt}
 
 \section{\bfseries{Research Experience}}
