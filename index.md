@@ -12,7 +12,7 @@ I am a second-year Master's student at the Beijing Normal University, under the 
 
 Prior to DUT, I have worked on applied mathematics under the guidance of [Prof. Junfeng Li](https://mathscinet.ams.org/mathscinet/MRAuthorID/756590) and [Prof. Suqing Wu](https://mathscinet.ams.org/mathscinet/MRAuthorID/1211260). 
 
-If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **yuzezhao [at] mail.bnu.edu.cn**
+If you are interested in any aspect of me, I am always open to discussions and academic collaborations. Feel free to reach out to me at — **yuzezhao [at] tamu.edu**
 
 ---
 
@@ -34,7 +34,6 @@ Advisor: Junfeng Li
 - Convex Optimization
 - Approximation Theory
 - Quantitative Finance
-- Machine Learning 
 
 ---
 
