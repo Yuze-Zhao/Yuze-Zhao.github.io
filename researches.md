@@ -17,13 +17,16 @@ Truncations of Logarithmic Besov Spaces, finished and currently under revision.
 
 ---
 
-## Early Project
+<!-- ## Early Project
 
 - The Undergraduate Student Innovation Practice Program: <br>
 [Quantitative strategy research with artificial intelligence](https://Yuze-Zhao.github.io/file/ProgramCompilation.pdf). <br>
 Advisors: Mingsong Cheng and Ben Duan, <br> 
 participants: Yiyang Lv and **Yuze Zhao**, <br>
- Mar. 2021 -- Apr. 2022
+ Mar. 2021 -- Apr. 2022 -->
+
+
+
 <!-- {	\subitem\rm(i)	Studied key machine learning algorithms (decision trees and SVM);
 	\subitem\rm(ii)	Developed and implemented a dual moving average trading strategy;
 	\subitem\rm(iii)	Backtested the strategy on historical market data, achieving relatively stable returns.} -->
