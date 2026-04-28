@@ -8,7 +8,7 @@ layout: page
 
 Here is **Yuze Zhao (赵玉泽)**.<br>
 
-I am a second-year Master's student at the Beijing Normal University, under the supervision of [Prof. Dachun Yang](https://mathscinet.ams.org/mathscinet/MRAuthorID/317762) and [Prof. Wen Yuan](https://mathscinet.ams.org/mathscinet/MRAuthorID/743517). My current research focuses on harmonic analysis, particularly on function spaces. 
+I am a third-year Master's student at the Beijing Normal University, under the supervision of [Prof. Dachun Yang](https://mathscinet.ams.org/mathscinet/MRAuthorID/317762) and [Prof. Wen Yuan](https://mathscinet.ams.org/mathscinet/MRAuthorID/743517). My current research focuses on harmonic analysis, particularly on function spaces. In August this year, I will graduate from BNU and go abroad for my PhD study in Texas A&M University. 
 
 Prior to DUT, I have worked on applied mathematics under the guidance of [Prof. Junfeng Li](https://mathscinet.ams.org/mathscinet/MRAuthorID/756590) and [Prof. Suqing Wu](https://mathscinet.ams.org/mathscinet/MRAuthorID/1211260). 
 
