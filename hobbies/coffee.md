@@ -56,6 +56,36 @@ hobby_key: coffee
         <li><span>3</span><p><strong>注水：</strong>从中心画圈，分段注水，保持水位稳定，避免冲淋杯壁。</p></li>
       </ol>
     </section>
+
+    <section class="coffee-mindmap" aria-labelledby="mindmap-title">
+      <h2 id="mindmap-title">🗺️ 手冲知识脑图预览</h2>
+      <div class="coffee-mindmap-canvas">
+        <pre class="mermaid">
+mindmap
+  root((V60手冲咖啡体系))
+    核心器具
+      V60特性
+      分享壶
+      电子秤
+      手冲壶
+    浅烘豆
+      瑰夏
+      卡杜拉
+      埃塞种
+    冲煮变量
+      粉水比 1:15–1:17
+      中细研磨
+      水温 90.5–96℃
+    关键技术
+      润湿滤纸
+      30–45秒闷蒸
+      中心画圈
+    纠错
+      太酸：调细或升温
+      太苦：调粗或降温
+        </pre>
+      </div>
+    </section>
   </div>
 
   <p class="coffee-source">知识来源于《手工咖啡》指南 | 由 NotebookLM 协作生成</p>
@@ -80,4 +110,15 @@ hobby_key: coffee
   grounds.addEventListener('input', calculateWater);
   ratio.addEventListener('input', calculateWater);
 }());
+</script>
+
+<script type="module">
+  import mermaid from 'https://cdn.jsdelivr.net/npm/mermaid@11.16.0/dist/mermaid.esm.min.mjs';
+
+  mermaid.initialize({
+    startOnLoad: true,
+    theme: 'neutral',
+    securityLevel: 'strict',
+    mindmap: { padding: 18 }
+  });
 </script>

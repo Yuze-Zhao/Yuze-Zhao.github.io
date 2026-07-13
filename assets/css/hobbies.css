@@ -172,6 +172,39 @@
   text-align: center;
 }
 .coffee-process li p { margin: 0; }
+.coffee-mindmap {
+  grid-column: 1 / -1;
+  overflow: hidden;
+  padding: clamp(1rem, 3vw, 1.5rem);
+  border: 1px solid #eee9e3;
+  border-radius: 14px;
+  background: #fff;
+}
+.coffee-mindmap h2 {
+  margin: 0 0 1.25rem;
+  color: #44403c;
+  font-size: 1.35rem;
+  text-align: center;
+}
+.coffee-mindmap-canvas {
+  overflow-x: auto;
+  padding: .5rem;
+  text-align: center;
+  -webkit-overflow-scrolling: touch;
+}
+.coffee-mindmap-canvas .mermaid {
+  display: inline-block;
+  min-width: 680px;
+  margin: 0;
+  background: transparent;
+  text-align: left;
+}
+.coffee-mindmap-canvas svg {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
 .coffee-source { margin: 1.5rem 0 0; color: #a8a29e; font-size: .72rem; text-align: center; }
 
 @media (max-width: 720px) {
@@ -182,6 +215,7 @@
   .hobby-gallery-four { grid-template-columns: 1fr; }
   .hobby-gallery img { height: auto; max-height: 460px; }
   .coffee-calculator output { width: 100%; margin: .3rem 0 0; }
+  .coffee-mindmap-canvas { margin: 0 -.5rem; }
 }
 
 @media (prefers-reduced-motion: reduce) {
