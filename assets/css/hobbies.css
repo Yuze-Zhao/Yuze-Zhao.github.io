@@ -1,0 +1,189 @@
+.hobby-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: .55rem;
+  margin: 0 0 2.4rem;
+  padding: .55rem;
+  border: 1px solid #e4e1dc;
+  border-radius: 999px;
+  background: #faf9f7;
+  font-family: "PT Sans Narrow", sans-serif;
+}
+
+.hobby-nav a {
+  padding: .5rem .85rem;
+  border: 0;
+  border-radius: 999px;
+  color: #55514c;
+  line-height: 1.2;
+  text-decoration: none;
+}
+
+.hobby-nav a:hover,
+.hobby-nav a:focus-visible,
+.hobby-nav a[aria-current="page"] {
+  background: #333332;
+  color: #fff;
+}
+
+.hobby-intro { margin-bottom: 2rem; }
+.hobby-intro h1 { margin: .15rem 0 .75rem; }
+.hobby-kicker {
+  margin: 0;
+  color: #8a6545;
+  font-family: "PT Sans Narrow", sans-serif;
+  font-size: .8rem;
+  font-weight: 700;
+  letter-spacing: .12em;
+  text-transform: uppercase;
+}
+
+.hobby-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1rem;
+}
+
+.hobby-card {
+  overflow: hidden;
+  border: 1px solid #e5e1dc;
+  border-radius: 14px;
+  background: #fff;
+  box-shadow: 0 8px 25px rgba(51, 51, 50, .07);
+  color: #333332;
+  text-decoration: none;
+  transition: transform .2s ease, box-shadow .2s ease;
+}
+
+.hobby-card:hover,
+.hobby-card:focus-visible {
+  border-bottom-color: #e5e1dc;
+  box-shadow: 0 12px 32px rgba(51, 51, 50, .14);
+  transform: translateY(-3px);
+}
+
+.hobby-card > img,
+.hobby-card-placeholder {
+  display: block;
+  width: 100%;
+  height: 190px;
+  object-fit: cover;
+}
+
+.hobby-card-placeholder {
+  box-sizing: border-box;
+  padding-top: 2.55rem;
+  background: linear-gradient(135deg, #3b3028, #9a6b43);
+  color: #fff7e8;
+  font-size: 4.7rem;
+  text-align: center;
+}
+
+.hobby-card-body { display: block; padding: 1rem 1.1rem 1.2rem; }
+.hobby-card-body strong { display: block; font-size: 1.2rem; }
+.hobby-card-body small { color: #77716b; }
+
+.hobby-hero { margin: 0 0 1.5rem; }
+.hobby-hero img {
+  width: 100%;
+  max-height: 620px;
+  border-radius: 14px;
+  object-fit: cover;
+}
+.hobby-hero-contain img { object-fit: contain; }
+
+.hobby-gallery {
+  display: grid;
+  gap: .75rem;
+  margin-bottom: 1.25rem;
+}
+.hobby-gallery-three { grid-template-columns: repeat(3, minmax(0, 1fr)); }
+.hobby-gallery-four { grid-template-columns: repeat(2, minmax(0, 1fr)); }
+.hobby-gallery img {
+  width: 100%;
+  height: 240px;
+  border-radius: 10px;
+  object-fit: cover;
+}
+
+.coffee-lab {
+  margin-bottom: 2rem;
+  padding: clamp(1rem, 3vw, 2rem);
+  border-radius: 18px;
+  background: #fdfaf6;
+  color: #57534e;
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
+}
+.coffee-header { padding: 1rem 0 2rem; text-align: center; }
+.coffee-header h1 { margin: .3rem 0; color: #292524; font-size: clamp(1.75rem, 4vw, 2.4rem); }
+.coffee-header > p:last-child { margin: 0; color: #78716c; font-style: italic; }
+.coffee-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
+.coffee-card,
+.coffee-calculator {
+  box-sizing: border-box;
+  padding: 1.35rem;
+  border: 1px solid #eee9e3;
+  border-radius: 14px;
+  background: #fff;
+}
+.coffee-card h2,
+.coffee-calculator h2 { margin: 0 0 1rem; font-size: 1.2rem; }
+.coffee-card ul { margin: 0; padding-left: 1.2rem; }
+.coffee-tip { margin: 1rem 0 0; padding-top: .8rem; border-top: 1px solid #eee9e3; color: #78716c; font-size: .82rem; }
+.coffee-calculator { grid-column: 1 / -1; background: #292524; color: #f5f5f4; }
+.coffee-calculator-fields { display: flex; flex-wrap: wrap; gap: .8rem 1rem; align-items: end; }
+.coffee-calculator label { font-size: .75rem; }
+.coffee-calculator input {
+  display: block;
+  box-sizing: border-box;
+  width: 7rem;
+  margin-top: .3rem;
+  padding: .55rem;
+  border: 1px solid #57534e;
+  border-radius: 6px;
+  background: #44403c;
+  color: #fff;
+}
+.coffee-calculator button {
+  padding: .62rem 1rem;
+  border: 0;
+  border-radius: 6px;
+  background: #b45309;
+  color: #fff;
+  cursor: pointer;
+  font-weight: 700;
+}
+.coffee-calculator button:hover,
+.coffee-calculator button:focus-visible { background: #d97706; }
+.coffee-calculator output { margin-left: auto; font-size: 1.15rem; }
+.coffee-calculator output strong { color: #fbbf24; font-size: 1.45rem; }
+.coffee-process { grid-column: 1 / -1; }
+.coffee-process ol { margin: 0; padding: 0; list-style: none; }
+.coffee-process li { display: flex; gap: .75rem; align-items: flex-start; }
+.coffee-process li + li { margin-top: .8rem; }
+.coffee-process li span {
+  flex: 0 0 1.5rem;
+  height: 1.5rem;
+  border-radius: 50%;
+  background: #f5f5f4;
+  color: #a8a29e;
+  font-size: .75rem;
+  line-height: 1.5rem;
+  text-align: center;
+}
+.coffee-process li p { margin: 0; }
+.coffee-source { margin: 1.5rem 0 0; color: #a8a29e; font-size: .72rem; text-align: center; }
+
+@media (max-width: 720px) {
+  .hobby-nav { border-radius: 18px; }
+  .hobby-grid,
+  .coffee-grid { grid-template-columns: 1fr; }
+  .hobby-gallery-three,
+  .hobby-gallery-four { grid-template-columns: 1fr; }
+  .hobby-gallery img { height: auto; max-height: 460px; }
+  .coffee-calculator output { width: 100%; margin: .3rem 0 0; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .hobby-card { transition: none; }
+}
