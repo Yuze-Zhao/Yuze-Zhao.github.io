@@ -117,6 +117,19 @@
 .coffee-header { padding: 1rem 0 2rem; text-align: center; }
 .coffee-header h1 { margin: .3rem 0; color: #292524; font-size: clamp(1.75rem, 4vw, 2.4rem); }
 .coffee-header > p:last-child { margin: 0; color: #78716c; font-style: italic; }
+.coffee-cover {
+  overflow: hidden;
+  margin: 0 0 1rem;
+  border-radius: 14px;
+  background: #e7e2dc;
+}
+.coffee-cover img {
+  display: block;
+  width: 100%;
+  max-height: 540px;
+  object-fit: cover;
+  object-position: center;
+}
 .coffee-grid { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 1rem; }
 .coffee-card,
 .coffee-calculator {

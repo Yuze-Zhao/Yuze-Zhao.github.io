@@ -16,6 +16,10 @@ hobby_key: coffee
     <p>V60 滤杯 &amp; 浅烘咖啡豆专项</p>
   </header>
 
+  <figure class="coffee-cover">
+    <img src="/images/coffee-cover.jpg" alt="A specialty coffee menu featuring beans from Panama, Bolivia, Colombia, Ethiopia, Kenya, China, and other origins" loading="eager">
+  </figure>
+
   <div class="coffee-grid">
     <section class="coffee-card" tabindex="0" data-tip="如果感觉太淡，尝试调细研磨度；如果感觉太苦，尝试调粗研磨度或降低水温。">
       <h2>📍 冲煮四要素</h2>

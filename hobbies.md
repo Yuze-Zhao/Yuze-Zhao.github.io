@@ -25,7 +25,7 @@ hobby_key: overview
     <span class="hobby-card-body"><strong>Travel &amp; Cuisine</strong><small>Dalian, Hong Kong, Japan, and more</small></span>
   </a>
   <a class="hobby-card hobby-card-coffee" href="/hobbies/coffee/">
-    <span class="hobby-card-placeholder" aria-hidden="true">☕</span>
+    <img src="/images/coffee-cover.jpg" alt="A specialty coffee menu featuring beans from several origins" loading="lazy">
     <span class="hobby-card-body"><strong>Coffee</strong><small>My V60 pour-over learning guide</small></span>
   </a>
   <a class="hobby-card" href="/hobbies/anime/">
